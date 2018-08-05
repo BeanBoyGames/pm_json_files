@@ -1,0 +1,35 @@
+﻿[
+
+	{
+		"ID": 0,
+		"Title": "Donated to Charity",
+		"ShortDescription": "bros donated to charity",
+		"Description": "Long description 0 dsajkdsadj ksad sjklf dsjkflas dnjkflds anjfklsd anjkflsd anjfklds najfkld asnjfkld sanfjk dlsanfjdksla fndjskal fndjska lfndsjak lfndsjak lfndsaj klfsnad fjklasjfd",
+		"SpritePath": "NewsSprites/Just"
+	},
+
+	{
+		"ID": 1,
+		"Title": "News Artcle 1",
+		"ShortDescription": "Short descripotion 1",
+		"Description": "Long description 1 dsajkdsadj ksad sjklf dsjkflas dnjkflds anjfklsd anjkflsd anjfklds najfkld asnjfkld sanfjk dlsanfjdksla fndjskal fndjska lfndsjak lfndsjak lfndsaj klfsnad fjklasjfd",
+		"SpritePath": "NewsSprites/Just"
+	},
+
+	{
+		"ID": 2,
+		"Title": "News Artcle 2",
+		"ShortDescription": "Short descripotion 2",
+		"Description": "Long description 2 dsajkdsadj ksad sjklf dsjkflas dnjkflds anjfklsd anjkflsd anjfklds najfkld asnjfkld sanfjk dlsanfjdksla fndjskal fndjska lfndsjak lfndsjak lfndsaj klfsnad fjklasjfd",
+		"SpritePath": "NewsSprites/Just"
+	},
+
+	{
+		"ID": 3,
+		"Title": "New mech deved",
+		"ShortDescription": "Comp deved new mech wowow",
+		"Description": "Long description 2 dsajkdsadj ksad sjklf dsjkflas dnjkflds anjfklsd anjkflsd anjfklds najfkld asnjfkld sanfjk dlsanfjdksla fndjskal fndjska lfndsjak lfndsjak lfndsaj klfsnad fjklasjfd",
+		"SpritePath": "NewsSprites/Just"
+	}
+
+]

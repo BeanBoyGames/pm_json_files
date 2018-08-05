@@ -1,0 +1,27 @@
+﻿[
+
+	{
+		"ID": 0,
+		"Title": "News Artcle 0",
+		"ShortDescription": "Short descripotion 0",
+		"Description": "Long description 0 dsajkdsadj ksad sjklf dsjkflas dnjkflds anjfklsd anjkflsd anjfklds najfkld asnjfkld sanfjk dlsanfjdksla fndjskal fndjska lfndsjak lfndsjak lfndsaj klfsnad fjklasjfd",
+		"SpritePath": "NewsSprites/Just"
+	},
+
+	{
+		"ID": 1,
+		"Title": "News Artcle 1",
+		"ShortDescription": "Short descripotion 1",
+		"Description": "Long description 1 dsajkdsadj ksad sjklf dsjkflas dnjkflds anjfklsd anjkflsd anjfklds najfkld asnjfkld sanfjk dlsanfjdksla fndjskal fndjska lfndsjak lfndsjak lfndsaj klfsnad fjklasjfd",
+		"SpritePath": "NewsSprites/Just"
+	},
+
+	{
+		"ID": 2,
+		"Title": "News Artcle 2",
+		"ShortDescription": "Short descripotion 2",
+		"Description": "Long description 2 dsajkdsadj ksad sjklf dsjkflas dnjkflds anjfklsd anjkflsd anjfklds najfkld asnjfkld sanfjk dlsanfjdksla fndjskal fndjska lfndsjak lfndsjak lfndsaj klfsnad fjklasjfd",
+		"SpritePath": "NewsSprites/Just"
+	}
+
+]

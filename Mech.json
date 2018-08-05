@@ -1,0 +1,47 @@
+﻿[
+
+	{
+		"ID": 0,
+		"RenderTexturePath": "RenderTexture/CamRendSpider",
+		"IconPath": "MechIcons/MechSpiderIcon",
+		"Title": "Spider",
+		"Price": 1.8,
+		"BasePrice": 2.5,
+		"Stats": [ 3, 2, 2, 2 ],
+		"UpgradeNames": [ "Name0", "Name1", "Name2" ],
+		"UpgradeDescriptions": [ "Desc0", "Desc1", "Desc2" ],
+		"UpgradePrices": [ 1.1, 2.2, 3.3 ],
+		"UpgradeSize0": 2,
+		"UpgradeEffect0": [ 0, 2 ],
+		"UpgradeAmount0": [ 3, -1 ],
+		"UpgradeSize1": 1,
+		"UpgradeEffect1": [ 3 ],
+		"UpgradeAmount1": [ 2 ],
+		"UpgradeSize2": 4,
+		"UpgradeEffect2": [ 0, 1, 2, 3 ],
+		"UpgradeAmount2": [ 1, 1, 1, 1 ]
+	},
+
+	{
+		"ID": 1,
+		"RenderTexturePath": "RenderTexture/CamRendSwamp",
+		"IconPath": "MechIcons/MechManIcon",
+		"Title": "Swamp",
+		"Price": 2.6,
+		"BasePrice": 5.0,
+		"Stats": [ 2, 4, 1, 1 ],
+		"UpgradeNames": [ "Name0", "Name1", "Name2" ],
+		"UpgradeDescriptions": [ "Desc0", "Desc1", "Desc2" ],
+		"UpgradePrices": [ 2.1, 3.2, 4.3 ],
+		"UpgradeSize0": 2,
+		"UpgradeEffect0": [ 0, 1 ],
+		"UpgradeAmount0": [ 4, -2 ],
+		"UpgradeSize1": 1,
+		"UpgradeEffect1": [ 2 ],
+		"UpgradeAmount1": [ 2 ],
+		"UpgradeSize2": 4,
+		"UpgradeEffect2": [ 0, 1, 2, 3 ],
+		"UpgradeAmount2": [ 1, 1, 1, 1 ]
+	}
+
+]

@@ -1,0 +1,55 @@
+﻿[
+
+	{
+		"ID": 0,
+		"Title": "Increase Funding to Cyber-Security",
+		"Cost": 2.0,
+		"Reputation": 0,
+		"Description": "Reduce chance of a cyber attack in the future by 25%",
+		"NewsArt": -1,
+		"Email": 0,
+		"Elms": 1,
+		"Stats": [ "CyberSec" ],
+		"Effects": [ 25.0 ]
+	},
+
+	{
+		"ID": 1,
+		"Title": "Research Swamp Mech",
+		"Cost": 5.0,
+		"Reputation": 0,
+		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the Swamp Mech",
+		"NewsArt": 3,
+		"Email": 3,
+		"Elms": 1,
+		"Stats": [ "Mech" ],
+		"Effects": [ 1.0 ]
+	},
+
+	{
+		"ID": 2,
+		"Title": "Donate to Charity",
+		"Cost": 2.5,
+		"Reputation": 0,
+		"Description": "Donate money to a charity to help kids in need get proper STEM education. This will help you have a better reputation with the public, and increase your reputation by 3",
+		"NewsArt": 0,
+		"Email": 1,
+		"Elms": 1,
+		"Stats": [ "Rep" ],
+		"Effects": [ 3.0 ]
+	},
+
+	{
+		"ID": 3,
+		"Title": "Collect Data from Users",
+		"Cost": 0.0,
+		"Reputation": 0,
+		"Description": "Get a $5M cash boost from selling users data to third party companies, This will also greatly increase the risk of a scandal.",
+		"NewsArt": -1,
+		"Email": 2,
+		"Elms": 2,
+		"Stats": [ "Money", "Scandal" ],
+		"Effects": [ 5.0, 50.0 ]
+	}
+
+]

@@ -1,0 +1,30 @@
+﻿[
+
+	{
+		"ID": 0,
+		"From": "Bill Waldrop",
+		"SubjectLine": "Cyber-Security Founding",
+		"Body": "Good idea putting more recourses into cyber security. The last thing we need right now is a leak."
+	},
+
+	{
+		"ID": 1,
+		"From": "Vicky Williams",
+		"SubjectLine": "Charity Donation...",
+		"Body": "I don't get why you had to make a donation. We ARE NOT a charity, we are a business. Start acting like it."
+	},
+
+	{
+		"ID": 2,
+		"From": "Maxx Coalburn",
+		"SubjectLine": "Enhanced User Experience",
+		"Body": "I like what you did with showing others users data to increase the UX of our clients... and that chunk of change wont hurt either ;)"
+	},
+
+	{
+		"ID": 2,
+		"From": "Engineering",
+		"SubjectLine": "New Swamp mech ready",
+		"Body": "The Swamp mech is ready to develop, are team has been hard at work to get this done in time..."
+	}
+]

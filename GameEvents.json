@@ -1,0 +1,93 @@
+﻿[
+
+	{
+		"ID": 0,
+		"Chance": 100,
+		"ChanceStat": "None",
+		"SpriteFail": "Error",
+		"SpriteSucc": "Government_Subsidy_Succ_Sprite",
+		"TitleFail": "Error",
+		"TitleSucc": "Government Subsidy",
+		"DescriptionFail": "Error",
+		"DescriptionSucc": "To promote economic growth, the government has granted your company a $1M subsidy.",
+		"ElmsFail": 0,
+		"StatsFail": [ ],
+		"EffectsFail": [ ],
+		"ElmsSucc": 1,
+		"StatsSucc": [ "Money" ],
+		"EffectsSucc": [ 1.0 ]
+	},
+
+	{
+		"ID": 1,
+		"Chance": 100,
+		"ChanceStat": "None",
+		"SpriteFail": "Error",
+		"SpriteSucc": "Wasted_Worker_Time_Sprite",
+		"TitleFail": "Error",
+		"TitleSucc": "Wasted Worker Time",
+		"DescriptionFail": "Error",
+		"DescriptionSucc": "Due to poor management and uninspired workers, $2.5M were lost from unprofitable time.",
+		"ElmsFail": 0,
+		"StatsFail": [],
+		"EffectsFail": [],
+		"ElmsSucc": 1,
+		"StatsSucc": [ "Money" ],
+		"EffectsSucc": [ -2.5 ]
+	},
+
+	{
+		"ID": 2,
+		"Chance": 30,
+		"ChanceStat": "Scandal",
+		"SpriteFail": "Corruption_Scandal_Fail_Sprite",
+		"SpriteSucc": "Corruption_Scandal_Succ_Sprite",
+		"TitleFail": "Corruption Scandal Avoided",
+		"TitleSucc": "Corruption Scandal",
+		"DescriptionFail": "A low level manger has been found stealing from the company. Your company manages to get the money back and the media did not catch wind of it.",
+		"DescriptionSucc": "A low level manger has been found stealing from the company. You lose $1M and 1 reputation.",
+		"ElmsFail": 0,
+		"StatsFail": [],
+		"EffectsFail": [],
+		"ElmsSucc": 2,
+		"StatsSucc": [ "Money", "Rep" ],
+		"EffectsSucc": [ -1.0, 1.0 ]
+	},
+
+	{
+		"ID": 3,
+		"Chance": 100,
+		"ChanceStat": "None",
+		"SpriteFail": "Error",
+		"SpriteSucc": "Good_Public_Relations_Sprite",
+		"TitleFail": "Error",
+		"TitleSucc": "Good Public Relations",
+		"DescriptionFail": "Error",
+		"DescriptionSucc": "Due to the company putting on charity events and staying involved in the community the company gains 1 reputation.",
+		"ElmsFail": 0,
+		"StatsFail": [],
+		"EffectsFail": [],
+		"ElmsSucc": 1,
+		"StatsSucc": [ "Rep" ],
+		"EffectsSucc": [ 1.0 ]
+	},
+
+	{
+		"ID": 4,
+		"Chance": 10,
+		"ChanceStat": "CyberSec",
+		"SpriteFail": "Cyber_Attack_Fail_Sprite",
+		"SpriteSucc": "Cyber_Attack_Succ_Sprite",
+		"TitleFail": "Cyber Attack Prevented",
+		"TitleSucc": "Cyber Attack",
+		"DescriptionFail": "Due to the hard workers in the Cyber Security devision, a hacking attempt was found before it was to late and taken care of. (+1 reputation)",
+		"DescriptionSucc": "Due to the under-payed and under-staffed Cyber Security devision, a hostile body has taken an unknown amount of information. (-3 reputation)",
+		"ElmsFail": 1,
+		"StatsFail": [ "Rep" ],
+		"EffectsFail": [ 1.0 ],
+		"ElmsSucc": 1,
+		"StatsSucc": [ "Rep" ],
+		"EffectsSucc": [ -3.0 ]
+	}
+
+]
