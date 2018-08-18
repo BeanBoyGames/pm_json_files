@@ -2,19 +2,21 @@
 
 	{
 		"ID": 0,
-		"Title": "Increase Funding to Cyber-Security",
-		"Cost": 2.0,
+		"Turn": 2,
+		"Title": "Research Spider Mech",
+		"Cost": 1.0,
 		"Reputation": 0,
-		"Description": "Reduce chance of a cyber attack in the future by 25%",
-		"NewsArt": -1,
-		"Email": 0,
+		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the Spider Mech",
+		"NewsArt": 3,
+		"Email": 3,
 		"Elms": 1,
-		"Stats": [ "CyberSec" ],
-		"Effects": [ 25.0 ]
+		"Stats": [ "Mech" ],
+		"Effects": [ 0.0 ]
 	},
 
 	{
 		"ID": 1,
+		"Turn": 5,
 		"Title": "Research Swamp Mech",
 		"Cost": 5.0,
 		"Reputation": 0,
@@ -28,6 +30,7 @@
 
 	{
 		"ID": 2,
+		"Turn": 0,
 		"Title": "Donate to Charity",
 		"Cost": 2.5,
 		"Reputation": 0,
@@ -41,6 +44,7 @@
 
 	{
 		"ID": 3,
+		"Turn": 0,
 		"Title": "Collect Data from Users",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -50,6 +54,20 @@
 		"Elms": 2,
 		"Stats": [ "Money", "Scandal" ],
 		"Effects": [ 5.0, 50.0 ]
+	},
+
+	{
+		"ID": 4,
+		"Turn": 1,
+		"Title": "Increase Funding to Cyber-Security",
+		"Cost": 2.0,
+		"Reputation": 0,
+		"Description": "Reduce chance of a cyber attack in the future by 25%",
+		"NewsArt": -1,
+		"Email": 0,
+		"Elms": 1,
+		"Stats": [ "CyberSec" ],
+		"Effects": [ 25.0 ]
 	}
 
 ]

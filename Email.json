@@ -1,0 +1,30 @@
+﻿[
+
+	{
+		"ID": 0,
+		"From": "Bill Waldrop",
+		"SubjectLine": "Welcome Back",
+		"Body": "Welcome back to the company, hope your vacation was nice. We have updated our operating system and have a few things to go over.\n\nTheir are a couple new systems we have implemented but will be rolling out as time goes on. As of now we need you to make some decisions the company and over the next couple quarters we will start implementing new systems for you to mess with.\n\nGood luck."
+	},
+
+	{
+		"ID": 1,
+		"From": "Vicky Williams",
+		"SubjectLine": "Developing mechs",
+		"Body": "You can now develop mechs but we will be selling the for you."
+	},
+
+	{
+		"ID": 2,
+		"From": "Maxx Coalburn",
+		"SubjectLine": "Sell your own mechs",
+		"Body": "You can sell your own mechs now..."
+	},
+
+	{
+		"ID": 3,
+		"From": "Engineering",
+		"SubjectLine": "Mech upgrades. You can do them",
+		"Body": "yup"
+	}
+]
