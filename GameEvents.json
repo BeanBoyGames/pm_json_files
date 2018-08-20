@@ -20,13 +20,13 @@
 
 	{
 		"ID": 1,
-		"Chance": 100,
-		"ChanceStat": "None",
-		"SpriteFail": "Error",
+		"Chance": 50,
+		"ChanceStat": "WorkerAnger",
+		"SpriteFail": "No_Wasted_Worker_Time_Sprite",
 		"SpriteSucc": "Wasted_Worker_Time_Sprite",
-		"TitleFail": "Error",
+		"TitleFail": "Hard Working Team",
 		"TitleSucc": "Wasted Worker Time",
-		"DescriptionFail": "Error",
+		"DescriptionFail": "Due to generally happy workers, there has been little to no wasted work time.",
 		"DescriptionSucc": "Due to poor management and uninspired workers, $2.5M has been lost due to unprofitable time.",
 		"ElmsFail": 0,
 		"StatsFail": [],

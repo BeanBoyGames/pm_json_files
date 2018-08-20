@@ -86,7 +86,7 @@
 
 	{
 		"ID": 6,
-		"Turn": 7,
+		"Turn": 0,
 		"Title": "Give Workers Free Food",
 		"Cost": 3.0,
 		"Reputation": 0,
@@ -94,8 +94,8 @@
 		"NewsArt": -1,
 		"Email": -1,
 		"Elms": 1,
-		"Stats": [ "WorkerLife" ],
-		"Effects": [ 1.0 ]
+		"Stats": [ "WorkerAnger" ],
+		"Effects": [ -25.0 ]
 	}
 
 ]
