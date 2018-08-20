@@ -10,8 +10,8 @@
 	{
 		"ID": 1,
 		"From": "Vicky Williams",
-		"SubjectLine": "Charity Donation...",
-		"Body": "I don't get why you had to make a donation. We ARE NOT a charity, we are a business. Start acting like it."
+		"SubjectLine": "Regarding your Contribution",
+		"Body": "I'd like to remind you that we're a company, not a charity. Leave the holding hands and singing Kumbaya shit to somebody else, or the shareholders will be all over our asses."
 	},
 
 	{
@@ -26,5 +26,12 @@
 		"From": "Engineering",
 		"SubjectLine": "New Swamp mech ready",
 		"Body": "The Swamp mech is ready to develop, are team has been hard at work to get this done in time..."
+	},
+
+	{
+		"ID": 4,
+		"From": "Andrew Bowers",
+		"SubjectLine": "Thank you!!",
+		"Body": "Not sure if this email will get to you, but the boys over at the Cybersecurity department just wanted to let you know that you're a godsend for increasing funding to our department. Seems like everyone these days forgets about Cybersecurity, but not you! Keep on rockin!"
 	}
 ]

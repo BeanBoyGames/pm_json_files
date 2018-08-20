@@ -34,7 +34,7 @@
 		"Title": "Donate to Charity",
 		"Cost": 2.5,
 		"Reputation": 0,
-		"Description": "Donate money to a charity to help kids in need get proper STEM education. This will help you have a better reputation with the public, and increase your reputation by 3",
+		"Description": "Donate $2.5M to Tech-Up, a nonprofit organization that helps underprivileged kids get a proper STEM education. This will increase your reputation by 3.",
 		"NewsArt": 0,
 		"Email": 1,
 		"Elms": 1,
@@ -48,9 +48,9 @@
 		"Title": "Collect Data from Users",
 		"Cost": 0.0,
 		"Reputation": 0,
-		"Description": "Get a $5M cash boost from selling users data to third party companies, This will also greatly increase the risk of a scandal.",
+		"Description": "Get a $5M cash boost by selling Botnet user's data to a third party data collection company. This will greatly increase the risk of a scandal.",
 		"NewsArt": -1,
-		"Email": 2,
+		"Email": -1,
 		"Elms": 2,
 		"Stats": [ "Money", "Scandal" ],
 		"Effects": [ 5.0, 50.0 ]
@@ -59,15 +59,43 @@
 	{
 		"ID": 4,
 		"Turn": 1,
-		"Title": "Increase Funding to Cyber-Security",
+		"Title": "Increase Funding to Cybersecurity",
 		"Cost": 2.0,
 		"Reputation": 0,
-		"Description": "Reduce chance of a cyber attack in the future by 25%",
+		"Description": "Increase funding to your Cybersecurity department by $2M. Reduce chance of a cyber attack in the future by 25%.",
 		"NewsArt": -1,
-		"Email": 0,
+		"Email": 4,
 		"Elms": 1,
 		"Stats": [ "CyberSec" ],
 		"Effects": [ 25.0 ]
+	},
+
+	{
+		"ID": 5,
+		"Turn": 7,
+		"Title": "Add a Mech Upgrade Facility",
+		"Cost": 2.0,
+		"Reputation": 0,
+		"Description": "Spend $2M to create a facility that will allow Botnet to add upgrades to their mechs.",
+		"NewsArt": 1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "Upgrade" ],
+		"Effects": [ 1.0 ]
+	},
+
+	{
+		"ID": 6,
+		"Turn": 7,
+		"Title": "Give Workers Free Food",
+		"Cost": 3.0,
+		"Reputation": 0,
+		"Description": "Spend $3M to add free-food facilities to all of Botnet's mech production facilities to improve worker's morale.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "WorkerLife" ],
+		"Effects": [ 1.0 ]
 	}
 
 ]
