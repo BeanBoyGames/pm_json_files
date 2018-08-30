@@ -17,15 +17,22 @@
 	{
 		"ID": 2,
 		"From": "Bill Waldrop",
-		"SubjectLine": "Developing Mechs",
-		"Body": "We added another system to your machine. You can now sell the mechs that Botnet has developed to the countries of your choosing."
+		"SubjectLine": "Exporting Mechs",
+		"Body": "We added another system to your machine. You can now export the mechs that Botnet has developed to the countries of your choosing."
 	},
 
 	{
 		"ID": 3,
-		"From": "Engineering",
-		"SubjectLine": "Mech upgrades. You can do them",
-		"Body": "yup"
+		"From": "Mister CEO",
+		"SubjectLine": "Congratsulations! You received salary increase!!",
+		"Body": "For your amazing work at company, I have decided to increase your salary! Please update your account information by clicking on link below to receive your money!\n\nwww.salaryincrease.io\n\nThank you!"
+	},
+
+	{
+		"ID": 4,
+		"From": "Andrew Bowers",
+		"SubjectLine": "IMPORTANT - Phishing Email - Do Not Click",
+		"Body": "As many of you have noticed, an email has been going around the company informing employees of a salary increase. DO NOT click on the link, it is a phishing attempt to steal company information. If you have already clicked on the link, please contact security immediately for further instructions."
 	}
 
 ]

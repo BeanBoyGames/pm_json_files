@@ -2,34 +2,6 @@
 
 	{
 		"ID": 0,
-		"Turn": 2,
-		"Title": "Research Spider Mech",
-		"Cost": 1.0,
-		"Reputation": 0,
-		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the Spider Mech",
-		"NewsArt": 3,
-		"Email": 3,
-		"Elms": 1,
-		"Stats": [ "Mech" ],
-		"Effects": [ 0.0 ]
-	},
-
-	{
-		"ID": 1,
-		"Turn": 5,
-		"Title": "Research Swamp Mech",
-		"Cost": 5.0,
-		"Reputation": 0,
-		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the Swamp Mech",
-		"NewsArt": 3,
-		"Email": 3,
-		"Elms": 1,
-		"Stats": [ "Mech" ],
-		"Effects": [ 1.0 ]
-	},
-
-	{
-		"ID": 2,
 		"Turn": 0,
 		"Title": "Donate to Charity",
 		"Cost": 2.5,
@@ -43,21 +15,21 @@
 	},
 
 	{
-		"ID": 3,
+		"ID": 1,
 		"Turn": 0,
 		"Title": "Collect Data from Users",
 		"Cost": 0.0,
 		"Reputation": 0,
 		"Description": "Get a $5M cash boost by selling Botnet user's data to a third party data collection company. This will greatly increase the risk of a scandal.",
 		"NewsArt": -1,
-		"Email": -1,
+		"Email": 2,
 		"Elms": 2,
 		"Stats": [ "Money", "Scandal" ],
 		"Effects": [ 5.0, 50.0 ]
 	},
 
 	{
-		"ID": 4,
+		"ID": 2,
 		"Turn": 1,
 		"Title": "Increase Funding to Cybersecurity",
 		"Cost": 2.0,
@@ -71,31 +43,101 @@
 	},
 
 	{
-		"ID": 5,
+		"ID": 3,
 		"Turn": 7,
 		"Title": "Add a Mech Upgrade Facility",
 		"Cost": 2.0,
 		"Reputation": 0,
 		"Description": "Spend $2M to create a facility that will allow Botnet to add upgrades to their mechs.",
 		"NewsArt": 1,
-		"Email": -1,
+		"Email": 5,
 		"Elms": 1,
 		"Stats": [ "Upgrade" ],
 		"Effects": [ 1.0 ]
 	},
 
 	{
-		"ID": 6,
-		"Turn": 7,
+		"ID": 4,
+		"Turn": 4,
 		"Title": "Give Workers Free Food",
 		"Cost": 3.0,
 		"Reputation": 0,
 		"Description": "Spend $3M to add free-food facilities to all of Botnet's mech production facilities to improve worker's morale.",
 		"NewsArt": -1,
-		"Email": -1,
+		"Email": 6,
 		"Elms": 1,
 		"Stats": [ "WorkerAnger" ],
 		"Effects": [ -25.0 ]
+	},
+
+	{
+		"ID": 5,
+		"Turn": 6,
+		"Title": "Cut Costs on Restrooms",
+		"Cost": 0.0,
+		"Reputation": 0,
+		"Description": "Gain $5M by removing feminine hygiene products from restrooms, replacing toilet paper with single ply toilet paper, and removing family restrooms.",
+		"NewsArt": -1,
+		"Email": 7,
+		"Elms": 2,
+		"Stats": [ "Money", "WorkerAnger" ],
+		"Effects": [ 5.0, 30.0 ]
+	},
+
+	{
+		"ID": 6,
+		"Turn": 3,
+		"Title": "Recruit a Cyber Security Specialist",
+		"Cost": 3.0,
+		"Reputation": 0,
+		"Description": "Spend $3M to hire a renowned cybersecurity specialist that has applied for Lead Security at Botnet. She's one of the best in her field and would no doubt improve Botnet's cybersecurity, but is known for sometimes ignoring company policies and doing things her own way, which could spell a scandal for the company.",
+		"NewsArt": 4,
+		"Email": -1,
+		"Elms": 2,
+		"Stats": [ "CyberSec", "Scandal" ],
+		"Effects": [ 25.0, 25.0 ]
+	},
+
+	{
+		"ID": 7,
+		"Turn": 6,
+		"Title": "Recruit a Public Relations Specialist",
+		"Cost": 2.0,
+		"Reputation": 0,
+		"Description": "Spend $2M to hire a skilled Public Relations Manager for Botnet. This will increase Botnet's reputation by 2.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "Rep" ],
+		"Effects": [ 2.0 ]
+	},
+	
+	{
+		"ID": 8,
+		"Turn": 6,
+		"Title": "Sell Mechs for Parade",
+		"Cost": 0,
+		"Reputation": 0,
+		"Description": "Gain $5M by developing and selling several lavish mechs to Iraq for their annual military parade. This will decrease Botnet's reputation by 2, as Iraq is viewed by a lot of the world as a country that violates many human rights.",
+		"NewsArt": 3,
+		"Email": -1,
+		"Elms": 2,
+		"Stats": [ "Money", "Rep" ],
+		"Effects": [ 5.0, -2.0 ]
+	},
+
+	{
+		"ID": 9,
+		"Turn": 8,
+		"Title": "Fire Troublesome Manager",
+		"Cost": 2.0,
+		"Reputation": 0,
+		"Description": "Spend $2M to replace a critical executive manager who has been internally badmouthing Botnet and occasionally breaking company protocol. This will decrease the chance of Botnet having a scandal.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "Scandal" ],
+		"Effects": [ -20.0 ]
 	}
 
 ]

@@ -22,6 +22,22 @@
 		"ShortDescription": "The President of USA spoke out against the recent attack from P on I",
 		"Description": "'P either seems to be unaware, or not care about the fact that attacking military bases that house civilians is a war crime', says John Adams, President of USA.",
 		"SpritePath": "NewsSprites/Just"
+	},
+
+	{
+		"ID": 3,
+		"Title": "Botnet Continues to Dominate the Mech Industry",
+		"ShortDescription": "It seems like there's no end to Botnet's success.",
+		"Description": "While other mech companies struggle to get their feet off the ground, Botnet has been soaring high. The increased political tensions between various countries around the world has increased the demand for war mechs - and Botnet is the current go-to provider for such products. Botnet has the most mech production facilities and the biggest selection of mechs in the world, and it seems like nothing is stopping their growth.",
+		"SpritePath": "NewsSprites/Just"
+	},
+
+	{
+		"ID": 4,
+		"Title": "Uganda's Economy Continues Massive Growth",
+		"ShortDescription": "Head Treasurer Jako Bidunbu credits growth to Uganda's newly invigorated logging industry",
+		"Description": "Last year, Uganda made a giant investment in their economy by purchasing over 30 mechs from Botnet - a global mech production company. These mechs were custom designed to harvest the strong woods from Uganda's forests. 'Uganda has always had some of the world's most versatile lumber living in our dense forests, but we were never able to capitalize on it until we purchased our logging mechs from Botnet,' says Jako.",
+		"SpritePath": "NewsSprites/Just"
 	}
 
 ]

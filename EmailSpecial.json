@@ -18,7 +18,7 @@
 		"ID": 2,
 		"From": "Maxx Coalburn",
 		"SubjectLine": "Enhanced User Experience",
-		"Body": "I like what you did with showing others users data to increase the UX of our clients... and that chunk of change wont hurt either ;)"
+		"Body": "Good move on selling that user data, I'm sure we'll be able to understand our users MUCH beteter now...and the extra income doesn't hurt either ;)"
 	},
 
 	{
@@ -33,5 +33,27 @@
 		"From": "Andrew Bowers",
 		"SubjectLine": "Thank you!!",
 		"Body": "Not sure if this email will get to you, but the boys over at the Cybersecurity department just wanted to let you know that you're a godsend for increasing funding to our department. Seems like everyone these days forgets about Cybersecurity, but not you! Keep on rockin!"
+	},
+
+	{
+		"ID": 5,
+		"From": "Guantonimo Jospeh",
+		"SubjectLine": "Mech Upgrade Facility",
+		"Body": "The Mech Upgrade Facility is up and running smoothly. Just pick which upgrades you would like to install on any mechs Botnet has developed and we'll take care of the rest."
+	},
+
+	{
+		"ID": 6,
+		"From": "Rick James",
+		"SubjectLine": "We Love the Food!",
+		"Body": "I hope this reaches you! The workers out at plant 3C are absolutely loving the food facilities you added, some of them don't want to go home anymore ha!\n\nAll we had before was bananas...that's it. I don't know if you know the pain of only eating bananas every day but I hope you never experience it.\n\nThanks a bunch."
+	},
+
+	{
+		"ID": 7,
+		"From": "Bilb Ono",
+		"SubjectLine": "Restrooms are Unacceptable",
+		"Body": "Oh, so now you're telling me that Botnet can't even afford fucking tampons? Are they too expensive for your billion dollar corporation? Might as well just remove toilet paper all together from our restrooms right? What a fucking joke."
 	}
+
 ]
