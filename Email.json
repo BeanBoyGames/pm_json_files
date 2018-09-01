@@ -5,7 +5,7 @@
 		"Turn": 0,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Welcome Back",
-		"Body": "Welcome back to the company, hope your vacation was nice. We have updated our operating system, so we have a few things to go over.\n\nThere are a few new systems we have ready, but we'll be rolling them out as time goes on. As of now, we need you to make some decisions for company. Over the next couple of quarters we will start implementing our new systems for you to use.\n\nGreat to have you back!",
+		"Body": "Welcome back to the company, I hope your vacation was nice. We have updated our operating system, so we have a few things to go over.\n\nThere are a few new systems we have ready, but we'll be rolling them out as time goes on. As of now, we need you to make some decisions for Botnet. Over the next couple of quarters we will start implementing our new systems for you to use.\n\nGreat to have you back!",
 		"Imp": true
 	},
 
@@ -14,7 +14,7 @@
 		"Turn": 2,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Developing Mechs",
-		"Body": "We've implemented a new system on your machine. You can now choose which mechs Botnet should develop based on the blueprints that our Design team has drafted up. For now, we'll handle the selling of the mechs.",
+		"Body": "We've implemented a new system on your machine. You can now choose which mechs Botnet should develop based on the blueprints that our design team has drafted up. For now, we'll handle the selling of the mechs.",
 		"Imp": true
 	},
 
@@ -23,7 +23,7 @@
 		"Turn": 5,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Exporting Mechs",
-		"Body": "We added another system to your machine. You can now export the mechs that Botnet has developed to the countries of your choosing.",
+		"Body": "We added another system on your machine. You can now export the mechs that Botnet has developed to the countries of your choosing. Set the price to whatever you feel will maximize profit, and make sure to pay attention to what kind of mechs each country is looking for.",
 		"Imp": true
 	},
 

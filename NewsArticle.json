@@ -5,7 +5,7 @@
 		"Turn": 0,
 		"Title": "Conflicts Between I and P Show No Sign of Resolving",
 		"ShortDescription": "'We will not back down,' says Shung Way, President of I.",
-		"Description": "The multi-decade long conflict between I and P continues to show no sign of resolving as the leaders of both countries continue to ramp up their military operations.",
+		"Description": "The multi-decade long conflict between I and P continues to show no sign of resolving as the leaders of both countries continue to ramp up their military operations. It seems that the amount of effort from The Counsel for Order and Unity of Nations and Territories (COUNT) to encourage peace and demilitarization of both countries has fallen on deaf ears.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": true
 	},
@@ -14,8 +14,8 @@
 		"ID": 1,
 		"Turn": 1,
 		"Title": "Russia Defends P on use of Missles",
-		"ShortDescription": "Last night, P targeted and destroyed an I weapons facility. Russian Prime Minister was quick to speak in their defense.",
-		"Description": "'It has been proven time and time again that I was using this weapon facility to target innocent P citizens, it is absolutely within I's right to defend their citizens,' says Steve Spearos, Prime Minister of Russia.",
+		"ShortDescription": "Last night, P targeted and destroyed an I weapons facility. The Prime Minister of Russia was quick to speak in their defense.",
+		"Description": "'It has been proven time and time again that I was using this weapon facility to target innocent P citizens, it is absolutely within I's right to defend their citizens,' says Steve Spearos, Prime Minister of Russia. This if the third time that Spearos has publicly defended the military actions of P against I this year.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": true
 	},
@@ -24,8 +24,8 @@
 		"ID": 2,
 		"Turn": 2,
 		"Title": "USA Condemns P",
-		"ShortDescription": "The President of USA spoke out against the recent attack from P on I",
-		"Description": "'P either seems to be unaware, or not care about the fact that attacking military bases that house civilians is a war crime', says John Adams, President of USA.",
+		"ShortDescription": "The President of USA spoke out against the recent attack from P on I.",
+		"Description": "'P either seems to be unaware, or not care about the fact that attacking military bases that house civilians is a war crime', says John Adams, President of USA. 'It is unacceptable, and blatantly goes against the COUNT's treaties that all of us signed in order to make the world a better place.'",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": true
 	},
@@ -44,7 +44,7 @@
 		"ID": 4,
 		"Turn": 4,
 		"Title": "Uganda's Economy Continues Massive Growth",
-		"ShortDescription": "Head Treasurer Jako Bidunbu credits growth to Uganda's newly invigorated logging industry",
+		"ShortDescription": "Head Treasurer Jako Bidunbu credits growth to Uganda's newly invigorated logging industry.",
 		"Description": "Last year, Uganda made a giant investment in their economy by purchasing over 30 mechs from Botnet - a global mech production company. These mechs were custom designed to harvest the strong woods from Uganda's forests. 'Uganda has always had some of the world's most versatile lumber living in our dense forests, but we were never able to capitalize on it until we purchased our logging mechs from Botnet,' says Jako.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": false

@@ -20,15 +20,15 @@
 		"ID": 2,
 		"From": "Maxx Coalburn",
 		"SubjectLine": "Enhanced User Experience",
-		"Body": "Good move on selling that user data, I'm sure we'll be able to understand our users MUCH beteter now...and the extra income doesn't hurt either ;)",
+		"Body": "Good move on selling that user data, I'm sure we'll be able to understand our users MUCH better now...and the extra income doesn't hurt either ;)",
 		"Imp": false
 	},
 
 	{
 		"ID": 3,
-		"From": "Engineering",
-		"SubjectLine": "New Heavy mech ready",
-		"Body": "The Heavy mech is ready to develop, are team has been hard at work to get this done in time...",
+		"From": "Billy Bob Thorton",
+		"SubjectLine": "New Mech Ready for Development - C.L.U.T.S.",
+		"Body": "Alright we finally finished the design for that heavy mech you wanted us to research and it's ready for development. Man, this thing is gonna be massive...glad it's on our side!",
 		"Imp": false
 	},
 
@@ -61,6 +61,14 @@
 		"From": "Bilb Ono",
 		"SubjectLine": "Restrooms are Unacceptable",
 		"Body": "Oh, so now you're telling me that Botnet can't even afford fucking tampons? Are they too expensive for your billion dollar corporation? Might as well just remove toilet paper all together from our restrooms right? What a fucking joke.",
+		"Imp": false
+	},
+
+	{
+		"ID": 8,
+		"From": "Billy Bob Thorton",
+		"SubjectLine": "New Mech Ready for Development - A.C.E.",
+		"Body": "We wrapped up the design on A.C.E. and you can now start developing it whenever you want. Not gonna lie, this one creeps me out a little...it looks like a giant mechanized person!",
 		"Imp": false
 	}
 
