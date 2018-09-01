@@ -19,7 +19,7 @@
 		"Turn": 0,
 		"Title": "Collect Data from Users",
 		"Cost": 0.0,
-		"Reputation": 0,
+		"Reputation": 1,
 		"Description": "Get a $5M cash boost by selling Botnet user's data to a third party data collection company. This will greatly increase the risk of a scandal.",
 		"NewsArt": -1,
 		"Email": 2,
@@ -111,12 +111,12 @@
 		"Stats": [ "Rep" ],
 		"Effects": [ 2.0 ]
 	},
-	
+
 	{
 		"ID": 8,
 		"Turn": 6,
 		"Title": "Sell Mechs for Parade",
-		"Cost": 0,
+		"Cost": 0.0,
 		"Reputation": 0,
 		"Description": "Gain $5M by developing and selling several lavish mechs to Iraq for their annual military parade. This will decrease Botnet's reputation by 2, as Iraq is viewed by a lot of the world as a country that violates many human rights.",
 		"NewsArt": 3,
@@ -138,6 +138,34 @@
 		"Elms": 1,
 		"Stats": [ "Scandal" ],
 		"Effects": [ -20.0 ]
+	},
+
+	{
+		"ID": 10,
+		"Turn": 5,
+		"Title": "Research Mech 'C.L.U.T.S.'",
+		"Cost": 5.0,
+		"Reputation": 0,
+		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the Mech 'C.L.U.T.S.",
+		"NewsArt": 3,
+		"Email": 3,
+		"Elms": 1,
+		"Stats": [ "Mech" ],
+		"Effects": [ 1.0 ]
+	},
+
+	{
+		"ID": 11,
+		"Turn": 7,
+		"Title": "Research Mech 'A.C.E.'",
+		"Cost": 10.0,
+		"Reputation": 0,
+		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the Mech 'A.C.E.'",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "Mech" ],
+		"Effects": [ 2.0 ]
 	}
 
 ]

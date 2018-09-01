@@ -4,56 +4,64 @@
 		"ID": 0,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Cyber-Security Founding",
-		"Body": "Good idea putting more recourses into cyber security. The last thing we need right now is a leak."
+		"Body": "Good idea putting more recourses into cyber security. The last thing we need right now is a leak.",
+		"Imp": false
 	},
 
 	{
 		"ID": 1,
 		"From": "Vicky Williams",
 		"SubjectLine": "Regarding your Contribution",
-		"Body": "I'd like to remind you that we're a company, not a charity. Leave the holding hands and singing Kumbaya shit to somebody else, or the shareholders will be all over our asses."
+		"Body": "I'd like to remind you that we're a company, not a charity. Leave the holding hands and singing Kumbaya shit to somebody else, or the shareholders will be all over our asses.",
+		"Imp": false
 	},
 
 	{
 		"ID": 2,
 		"From": "Maxx Coalburn",
 		"SubjectLine": "Enhanced User Experience",
-		"Body": "Good move on selling that user data, I'm sure we'll be able to understand our users MUCH beteter now...and the extra income doesn't hurt either ;)"
+		"Body": "Good move on selling that user data, I'm sure we'll be able to understand our users MUCH beteter now...and the extra income doesn't hurt either ;)",
+		"Imp": false
 	},
 
 	{
 		"ID": 3,
 		"From": "Engineering",
-		"SubjectLine": "New Swamp mech ready",
-		"Body": "The Swamp mech is ready to develop, are team has been hard at work to get this done in time..."
+		"SubjectLine": "New Heavy mech ready",
+		"Body": "The Heavy mech is ready to develop, are team has been hard at work to get this done in time...",
+		"Imp": false
 	},
 
 	{
 		"ID": 4,
 		"From": "Andrew Bowers",
 		"SubjectLine": "Thank you!!",
-		"Body": "Not sure if this email will get to you, but the boys over at the Cybersecurity department just wanted to let you know that you're a godsend for increasing funding to our department. Seems like everyone these days forgets about Cybersecurity, but not you! Keep on rockin!"
+		"Body": "Not sure if this email will get to you, but the boys over at the Cybersecurity department just wanted to let you know that you're a godsend for increasing funding to our department. Seems like everyone these days forgets about Cybersecurity, but not you! Keep on rockin!",
+		"Imp": false
 	},
 
 	{
 		"ID": 5,
 		"From": "Guantonimo Jospeh",
 		"SubjectLine": "Mech Upgrade Facility",
-		"Body": "The Mech Upgrade Facility is up and running smoothly. Just pick which upgrades you would like to install on any mechs Botnet has developed and we'll take care of the rest."
+		"Body": "The Mech Upgrade Facility is up and running smoothly. Just pick which upgrades you would like to install on any mechs Botnet has developed and we'll take care of the rest.",
+		"Imp": false
 	},
 
 	{
 		"ID": 6,
 		"From": "Rick James",
 		"SubjectLine": "We Love the Food!",
-		"Body": "I hope this reaches you! The workers out at plant 3C are absolutely loving the food facilities you added, some of them don't want to go home anymore ha!\n\nAll we had before was bananas...that's it. I don't know if you know the pain of only eating bananas every day but I hope you never experience it.\n\nThanks a bunch."
+		"Body": "I hope this reaches you! The workers out at plant 3C are absolutely loving the food facilities you added, some of them don't want to go home anymore ha!\n\nAll we had before was bananas...that's it. I don't know if you know the pain of only eating bananas every day but I hope you never experience it.\n\nThanks a bunch.",
+		"Imp": false
 	},
 
 	{
 		"ID": 7,
 		"From": "Bilb Ono",
 		"SubjectLine": "Restrooms are Unacceptable",
-		"Body": "Oh, so now you're telling me that Botnet can't even afford fucking tampons? Are they too expensive for your billion dollar corporation? Might as well just remove toilet paper all together from our restrooms right? What a fucking joke."
+		"Body": "Oh, so now you're telling me that Botnet can't even afford fucking tampons? Are they too expensive for your billion dollar corporation? Might as well just remove toilet paper all together from our restrooms right? What a fucking joke.",
+		"Imp": false
 	}
 
 ]

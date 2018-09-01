@@ -5,7 +5,8 @@
 		"Title": "Kids in Siberia rejoice as Botnet pays for their tuition",
 		"ShortDescription": "Botnet and the nonprofit organization Tech-Up send students to college.",
 		"Description": "'I honestly can't believe this is happening, it feels like a dream,' exclaims Timmy, who has just learned that Tech-Up will be paying for him and his entire class to go to Siberian Tech University. 'This couldn’t have happened without the extremely generous contribution from Botnet,' says a spokesperson for Tech-Up. 'Botnet has always firmly believed that it is important to invest in today's youth to make tomorrow's technology, and they really have made a difference here.'",
-		"SpritePath": "NewsSprites/Just"
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
 	},
 
 	{
@@ -13,7 +14,8 @@
 		"Title": "Botnet Develops Another Massive Facility",
 		"ShortDescription": "The new Botnet facility in Iceland finished construction today.",
 		"Description": "Not much is known about the massive new Botnet facility that just finished construction in Iceland. Certain insider sources speculate it's one of Botnet's many mech production facilities, while other sources say it's something entireley different.",
-		"SpritePath": "NewsSprites/Just"
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
 	},
 
 	{
@@ -21,7 +23,8 @@
 		"Title": "Botnet Hires Whiz Kalifa",
 		"ShortDescription": "The world renowned cybersecurity expert will take over as Botnet's head of Security.",
 		"Description": "'In an ever-changing technology world, we need ever-changing security in order to assure safety and reliability to all of our customers,' says a Botnet spokesman. 'We understand that there is zero tolerance for any security threat in the products we make, and with Whiz Kalifa's expert guidance, we can guarantee that our mechs will be invincible to any sort of cyber attack.'",
-		"SpritePath": "NewsSprites/Just"
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
 	},
 
 	{
@@ -29,7 +32,8 @@
 		"Title": "Iraq Holds Massive Military Parade",
 		"ShortDescription": "Military personnel, political leaders, and war mechs marched through the streets of Iraq yesterday.",
 		"Description": "In another display of military strength and political power, Iraq held their 7th annual 'Glory to Iraq' parade all day yesterday. Thousands of citizens lined the streets to see what Iraq's military had to offer. One of the grandest parts of the parade was when 20 massive and ornately decorated war mechs and their pilots stomped through the streets of Iraq. Interestingly enough, the mechs bore the logo of Botnet - a large Swedish mech company. Botnet has already received public criticism for the fact, stating that Botnet is 'supporting a terrorist country.'",
-		"SpritePath": "NewsSprites/Just"
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
 	}
 
 ]

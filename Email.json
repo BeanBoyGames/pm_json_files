@@ -2,37 +2,47 @@
 
 	{
 		"ID": 0,
+		"Turn": 0,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Welcome Back",
-		"Body": "Welcome back to the company, hope your vacation was nice. We have updated our operating system, so we have a few things to go over.\n\nThere are a few new systems we have ready, but we'll be rolling them out as time goes on. As of now, we need you to make some decisions for company. Over the next couple of quarters we will start implementing our new systems for you to use.\n\nGreat to have you back!"
+		"Body": "Welcome back to the company, hope your vacation was nice. We have updated our operating system, so we have a few things to go over.\n\nThere are a few new systems we have ready, but we'll be rolling them out as time goes on. As of now, we need you to make some decisions for company. Over the next couple of quarters we will start implementing our new systems for you to use.\n\nGreat to have you back!",
+		"Imp": true
 	},
 
 	{
 		"ID": 1,
+		"Turn": 2,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Developing Mechs",
-		"Body": "We've implemented a new system on your machine. You can now choose which mechs Botnet should develop based on the blueprints that our Design team has drafted up. For now, we'll handle the selling of the mechs."
+		"Body": "We've implemented a new system on your machine. You can now choose which mechs Botnet should develop based on the blueprints that our Design team has drafted up. For now, we'll handle the selling of the mechs.",
+		"Imp": true
 	},
 
 	{
 		"ID": 2,
+		"Turn": 5,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Exporting Mechs",
-		"Body": "We added another system to your machine. You can now export the mechs that Botnet has developed to the countries of your choosing."
+		"Body": "We added another system to your machine. You can now export the mechs that Botnet has developed to the countries of your choosing.",
+		"Imp": true
 	},
 
 	{
 		"ID": 3,
+		"Turn": 8,
 		"From": "Mister CEO",
 		"SubjectLine": "Congratsulations! You received salary increase!!",
-		"Body": "For your amazing work at company, I have decided to increase your salary! Please update your account information by clicking on link below to receive your money!\n\nwww.salaryincrease.io\n\nThank you!"
+		"Body": "For your amazing work at company, I have decided to increase your salary! Please update your account information by clicking on link below to receive your money!\n\nwww.salaryincrease.io\n\nThank you!",
+		"Imp": false
 	},
 
 	{
 		"ID": 4,
+		"Turn": 8,
 		"From": "Andrew Bowers",
 		"SubjectLine": "IMPORTANT - Phishing Email - Do Not Click",
-		"Body": "As many of you have noticed, an email has been going around the company informing employees of a salary increase. DO NOT click on the link, it is a phishing attempt to steal company information. If you have already clicked on the link, please contact security immediately for further instructions."
+		"Body": "As many of you have noticed, an email has been going around the company informing employees of a salary increase. DO NOT click on the link, it is a phishing attempt to steal company information. If you have already clicked on the link, please contact security immediately for further instructions.",
+		"Imp": false
 	}
 
 ]
