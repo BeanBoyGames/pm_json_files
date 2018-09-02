@@ -43,6 +43,34 @@
 		"SubjectLine": "IMPORTANT - Phishing Email - Do Not Click",
 		"Body": "As many of you have noticed, an email has been going around the company informing employees of a salary increase. DO NOT click on the link, it is a phishing attempt to steal company information. If you have already clicked on the link, please contact security immediately for further instructions.",
 		"Imp": false
+	},
+
+	{
+		"ID": 5,
+		"Turn": 4,
+		"From": "Jeff Bez",
+		"SubjectLine": "Keep up the good work!",
+		"Body": "I wanted to personally thank you [EMAIL_RECEPIENT]! You have been doing a great job. Keep up the good work and a promotion might be on the way.",
+		"Imp": false
+	},
+
+
+	{
+		"ID": 6,
+		"Turn": 10,
+		"From": "A Concerned Citizen",
+		"SubjectLine": "Please stop what you are doing.",
+		"Body": "Hello, I'm not sure if this will get to you but I'm pleading you to stop what you are doing. The mechs you develop and sell...if a terrorist group was to get their hands on them, it could lead to something really bad. Even developed countries stockpiling these things can not be good news. Peop[Message Intercepted]",
+		"Imp": false
+	},
+
+	{
+		"ID": 7,
+		"Turn": 10,
+		"From": "Andy Bowers",
+		"SubjectLine": "Emails getting through",
+		"Body": "You might have gotten an email from a civilian recently. We are still working out the kinks of this new system. From here on out, you shouldn't be getting anymore of these types of emails. Sorry for the inconvenience.",
+		"Imp": false
 	}
 
 ]

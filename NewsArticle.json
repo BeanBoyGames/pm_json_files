@@ -48,6 +48,36 @@
 		"Description": "Last year, Uganda made a giant investment in their economy by purchasing over 30 mechs from Botnet - a global mech production company. These mechs were custom designed to harvest the strong woods from Uganda's forests. 'Uganda has always had some of the world's most versatile lumber living in our dense forests, but we were never able to capitalize on it until we purchased our logging mechs from Botnet,' says Jako.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": false
+	},
+
+	{
+		"ID": 5,
+		"Turn": 6,
+		"Title": "Ho Kai Tourism Up",
+		"ShortDescription": "The new hot vacation spot this summer is Ho Kai. With its beautiful beaches and delicious food - how could it not be?",
+		"Description": "People are flocking to Ho Kai for the Summer to enjoy relaxing days and tropical water. If you're one of the lucky few who are going, remember to apply plenty of sun screen, as the UV Index in Ho Kai is notoriously high. Thankfully, the scrubbers were out all Spring, so the air quality is now rated as 'Acceptable' by the AQC. So leave your breathers behind and go enjoy the heat!",
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
+	},
+
+	{
+		"ID": 6,
+		"Turn": 2,
+		"Title": "Illegal Logging Operations Continue in Rei-Mont",
+		"ShortDescription": "Despite efforts by the Rei-Mont government, illegal logging continues to be a problem.",
+		"Description": "The people of Rei-Mont are in despair after learning that their efforts to stop illegal logging has done little to nothing in actually preventing logging. The Rei-Mont Environmental Agency estimates that at the current logging rate, 90% of the forest in Rei-Mont will be gone by the year 2150. One side of Rei-Mont's government is pushing for making any mech that can be retrofitted to log trees illegal, while the other side is strictly apposed to any mech restrictions.",
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
+	},
+
+	{
+		"ID": 7,
+		"Turn": 5,
+		"Title": "U.L. Holding Annual Speaker Forum",
+		"ShortDescription": "U.L. is holding their 7th annual speaker forum this Saturday. This is a time for any member of the nation to come and talk about issues that matter to them.",
+		"Description": "Out of the many topics to be discussed during this three day forum, the hottest topics will likely be\n-Government role in defense\n-Island integration into main lands\n-Personal mech restrictions\n-Possible trade deal with Ho Kai",
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
 	}
 
 ]

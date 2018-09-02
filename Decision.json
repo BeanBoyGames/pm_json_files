@@ -166,6 +166,48 @@
 		"Elms": 1,
 		"Stats": [ "Mech" ],
 		"Effects": [ 2.0 ]
+	},
+
+	{
+		"ID": 12,
+		"Turn": 9,
+		"Title": "Mech Return",
+		"Cost": 3.0,
+		"Reputation": 6,
+		"Description": "Some people are not happy with their mechs and want to return them. Pay 3M for shipping but gain 3 L.I.M.B. mechs.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 2,
+		"Stats": [ "DevMech", "" ],
+		"Effects": [ 0.0, 3.0 ]
+	},
+
+	{
+		"ID": 13,
+		"Turn": 12,
+		"Title": "Workers Health Care",
+		"Cost": 7.0,
+		"Reputation": 0,
+		"Description": "Workers are requesting better health care options. This will cost the company $7M but will make your employees much happier.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "WorkerAnger" ],
+		"Effects": [ -75.0 ]
+	},
+
+	{
+		"ID": 14,
+		"Turn": 8,
+		"Title": "Give a speech",
+		"Cost": 0.0,
+		"Reputation": 8,
+		"Description": "Give an internal speech to your employees about how well the company is doing. Discuss promotions, stock options, and increased funding to departments...but maybe stretch the truth a little bit.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 4,
+		"Stats": [ "Money", "WorkerAnger", "CyberSec", "Scandal" ],
+		"Effects": [ 1.0, -10.0, 10.0, 10.0 ]
 	}
 
 ]
