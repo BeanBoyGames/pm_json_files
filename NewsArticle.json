@@ -3,9 +3,9 @@
 	{
 		"ID": 0,
 		"Turn": 0,
-		"Title": "Conflicts Between I and P Show No Sign of Resolving",
-		"ShortDescription": "'We will not back down,' says Shung Way, President of I.",
-		"Description": "The multi-decade long conflict between I and P continues to show no sign of resolving as the leaders of both countries continue to ramp up their military operations. It seems that the amount of effort from The Counsel for Order and Unity of Nations and Territories (COUNT) to encourage peace and demilitarization of both countries has fallen on deaf ears.",
+		"Title": "Conflicts Between Willemette and Beathen Heat Up",
+		"ShortDescription": "'We will not back down,' says Shung Way, President of Willemette.",
+		"Description": "The multi-decade long conflict between Willemette and Beathen continues to show no sign of resolving as the leaders of both countries continue to ramp up their military operations. It seems that the amount of effort from The Counsel for Order and Unity of Nations and Territories (COUNT) to encourage peace and demilitarization of both countries has fallen on deaf ears.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": true
 	},
@@ -13,9 +13,9 @@
 	{
 		"ID": 1,
 		"Turn": 1,
-		"Title": "Russia Defends P on use of Missles",
-		"ShortDescription": "Last night, P targeted and destroyed an I weapons facility. The Prime Minister of Russia was quick to speak in their defense.",
-		"Description": "'It has been proven time and time again that I was using this weapon facility to target innocent P citizens, it is absolutely within I's right to defend their citizens,' says Steve Spearos, Prime Minister of Russia. This if the third time that Spearos has publicly defended the military actions of P against I this year.",
+		"Title": "Rei-Mont Defends Beathen on use of Missles",
+		"ShortDescription": "Last night, Beathen targeted and destroyed a Willemette weapons facility. The Prime Minister of Rei-Mont was quick to speak in their defense.",
+		"Description": "'It has been proven time and time again that Willemette was using this weapon facility to target innocent Beathen citizens, it is absolutely within Beathen's right to defend their citizens,' says Steve Spearos, Prime Minister of Rei-Mont. This if the third time that Spearos has publicly defended the military actions of Beathen against Willemette this year.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": true
 	},
@@ -23,9 +23,9 @@
 	{
 		"ID": 2,
 		"Turn": 2,
-		"Title": "USA Condemns P",
-		"ShortDescription": "The President of USA spoke out against the recent attack from P on I.",
-		"Description": "'P either seems to be unaware, or not care about the fact that attacking military bases that house civilians is a war crime', says John Adams, President of USA. 'It is unacceptable, and blatantly goes against the COUNT's treaties that all of us signed in order to make the world a better place.'",
+		"Title": "U.L. Condemns Beathen",
+		"ShortDescription": "The President of U.L. spoke out against the recent attack from BeathenP on Willemette.",
+		"Description": "'Beathen either seems to be unaware, or not care about the fact that attacking military bases that house civilians is a war crime', says John Adams, President of U.L.. 'It is unacceptable, and blatantly goes against the COUNT's treaties that all of us signed in order to make the world a better place.'",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": true
 	},
@@ -42,10 +42,10 @@
 
 	{
 		"ID": 4,
-		"Turn": 4,
-		"Title": "Uganda's Economy Continues Massive Growth",
-		"ShortDescription": "Head Treasurer Jako Bidunbu credits growth to Uganda's newly invigorated logging industry.",
-		"Description": "Last year, Uganda made a giant investment in their economy by purchasing over 30 mechs from Botnet - a global mech production company. These mechs were custom designed to harvest the strong woods from Uganda's forests. 'Uganda has always had some of the world's most versatile lumber living in our dense forests, but we were never able to capitalize on it until we purchased our logging mechs from Botnet,' says Jako.",
+		"Turn": 3,
+		"Title": "Unburu's Economy Continues Massive Growth",
+		"ShortDescription": "Head Treasurer Jako Bidunbu credits growth to Unburu's newly invigorated logging industry.",
+		"Description": "Last year, Unburu made a giant investment in their economy by purchasing over 30 mechs from Botnet - a global mech production company. These mechs were custom designed to harvest the strong woods from Unburu's forests. 'Unburu has always had some of the world's most versatile lumber living in our dense forests, but we were never able to capitalize on it until we purchased our logging mechs from Botnet,' says Jako.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": false
 	},
@@ -62,10 +62,10 @@
 
 	{
 		"ID": 6,
-		"Turn": 2,
-		"Title": "Illegal Logging Operations Continue in Rei-Mont",
-		"ShortDescription": "Despite efforts by the Rei-Mont government, illegal logging continues to be a problem.",
-		"Description": "The people of Rei-Mont are in despair after learning that their efforts to stop illegal logging has done little to nothing in actually preventing logging. The Rei-Mont Environmental Agency estimates that at the current logging rate, 90% of the forest in Rei-Mont will be gone by the year 2150. One side of Rei-Mont's government is pushing for making any mech that can be retrofitted to log trees illegal, while the other side is strictly apposed to any mech restrictions.",
+		"Turn": 6,
+		"Title": "Illegal Logging Operations Continue in Unburu",
+		"ShortDescription": "Despite efforts by the Unburu government, illegal logging continues to be a problem.",
+		"Description": "The people of Unburu are in despair after learning that their efforts to stop illegal logging has done little to nothing in actually preventing logging. The Unburu Environmental Agency estimates that at the current logging rate, 90% of the forest in Unburu will be gone by the year 2150. One side of Unburu's government is pushing for making any mech that can be retrofitted to log trees illegal, while the other side is strictly apposed to any mech restrictions.",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": false
 	},

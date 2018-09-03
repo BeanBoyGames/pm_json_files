@@ -118,7 +118,7 @@
 		"Title": "Sell Mechs for Parade",
 		"Cost": 0.0,
 		"Reputation": 0,
-		"Description": "Gain $6M by developing and selling several lavish mechs to Iraq for their annual military parade. This will decrease Botnet's reputation by 4, as Iraq is viewed by a lot of the world as a country that violates many human rights.",
+		"Description": "Gain $6M by developing and selling several lavish mechs to Shokrai for their annual military parade. This will decrease Botnet's reputation by 4, as Shokrai is viewed by a lot of the world as a country that violates many human rights.",
 		"NewsArt": 3,
 		"Email": -1,
 		"Elms": 2,
@@ -208,6 +208,20 @@
 		"Elms": 3,
 		"Stats": [ "Money", "WorkerAnger", "CyberSec" ],
 		"Effects": [ 1.0, -10.0, -10.0 ]
+	},
+
+	{
+		"ID": 15,
+		"Turn": 5,
+		"Title": "Change Security Software",
+		"Cost": 0,
+		"Reputation": 0,
+		"Description": "Gain $4M by switching to a more budget-friendly software for storing secrets. This will slightly increase the chance of a cyber attack in the future.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 2,
+		"Stats": [ "CyberSec", "Money" ],
+		"Effects": [ 15.0, 4.0 ]
 	}
 
 ]
