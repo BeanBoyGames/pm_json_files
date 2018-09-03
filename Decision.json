@@ -11,7 +11,7 @@
 		"Email": 1,
 		"Elms": 1,
 		"Stats": [ "Rep" ],
-		"Effects": [ 3.0 ]
+		"Effects": [ 2.0 ]
 	},
 
 	{
@@ -19,27 +19,27 @@
 		"Turn": 0,
 		"Title": "Collect Data from Users",
 		"Cost": 0.0,
-		"Reputation": 1,
-		"Description": "Get a $5M cash boost by selling Botnet user's data to a third party data collection company. This will greatly increase the risk of a scandal.",
+		"Reputation": 0,
+		"Description": "Get a $4M cash boost by selling Botnet user's data to a third party data collection company. This will increase the risk of a scandal.",
 		"NewsArt": -1,
 		"Email": 2,
 		"Elms": 2,
 		"Stats": [ "Money", "Scandal" ],
-		"Effects": [ 5.0, 50.0 ]
+		"Effects": [ 4.0, 25.0 ]
 	},
 
 	{
 		"ID": 2,
 		"Turn": 1,
 		"Title": "Increase Funding to Cybersecurity",
-		"Cost": 2.0,
+		"Cost": 2.5,
 		"Reputation": 0,
-		"Description": "Increase funding to your Cybersecurity department by $2M. Reduce chance of a cyber attack in the future by 25%.",
+		"Description": "Increase funding to your Cybersecurity department by $2.5M. Reduce chance of a cyber attack in the future by 45%.",
 		"NewsArt": -1,
 		"Email": 4,
 		"Elms": 1,
 		"Stats": [ "CyberSec" ],
-		"Effects": [ 25.0 ]
+		"Effects": [ -45.0 ]
 	},
 
 	{
@@ -47,7 +47,7 @@
 		"Turn": 7,
 		"Title": "Add a Mech Upgrade Facility",
 		"Cost": 2.0,
-		"Reputation": 0,
+		"Reputation": 5,
 		"Description": "Spend $2M to create a facility that will allow Botnet to add upgrades to their mechs.",
 		"NewsArt": 1,
 		"Email": 5,
@@ -60,9 +60,9 @@
 		"ID": 4,
 		"Turn": 4,
 		"Title": "Give Workers Free Food",
-		"Cost": 3.0,
+		"Cost": 2.0,
 		"Reputation": 0,
-		"Description": "Spend $3M to add free-food facilities to all of Botnet's mech production facilities to improve worker's morale.",
+		"Description": "Spend $2M to add free-food facilities to all of Botnet's mech production facilities to improve worker's morale.",
 		"NewsArt": -1,
 		"Email": 6,
 		"Elms": 1,
@@ -81,7 +81,7 @@
 		"Email": 7,
 		"Elms": 2,
 		"Stats": [ "Money", "WorkerAnger" ],
-		"Effects": [ 5.0, 30.0 ]
+		"Effects": [ 5.0, 35.0 ]
 	},
 
 	{
@@ -89,21 +89,21 @@
 		"Turn": 3,
 		"Title": "Recruit a Cyber Security Specialist",
 		"Cost": 3.0,
-		"Reputation": 0,
-		"Description": "Spend $3M to hire a renowned cybersecurity specialist that has applied for Lead Security at Botnet. She's one of the best in her field and would no doubt improve Botnet's cybersecurity, but is known for sometimes ignoring company policies and doing things her own way, which could spell a scandal for the company.",
+		"Reputation": 4,
+		"Description": "Spend $3M to hire a renowned cybersecurity specialist that has applied for Lead Security at Botnet. She's one of the best in her field and would no doubt improve Botnet's cybersecurity, but is known for sometimes ignoring company policies and doing things her own way, which will increase your chance of scandal slightly.",
 		"NewsArt": 4,
 		"Email": -1,
 		"Elms": 2,
 		"Stats": [ "CyberSec", "Scandal" ],
-		"Effects": [ 25.0, 25.0 ]
+		"Effects": [ -30.0, 10.0 ]
 	},
 
 	{
 		"ID": 7,
 		"Turn": 6,
 		"Title": "Recruit a Public Relations Specialist",
-		"Cost": 2.0,
-		"Reputation": 0,
+		"Cost": 2.5,
+		"Reputation": 3,
 		"Description": "Spend $2M to hire a skilled Public Relations Manager for Botnet. This will increase Botnet's reputation by 2.",
 		"NewsArt": -1,
 		"Email": -1,
@@ -118,12 +118,12 @@
 		"Title": "Sell Mechs for Parade",
 		"Cost": 0.0,
 		"Reputation": 0,
-		"Description": "Gain $5M by developing and selling several lavish mechs to Iraq for their annual military parade. This will decrease Botnet's reputation by 2, as Iraq is viewed by a lot of the world as a country that violates many human rights.",
+		"Description": "Gain $6M by developing and selling several lavish mechs to Iraq for their annual military parade. This will decrease Botnet's reputation by 4, as Iraq is viewed by a lot of the world as a country that violates many human rights.",
 		"NewsArt": 3,
 		"Email": -1,
 		"Elms": 2,
 		"Stats": [ "Money", "Rep" ],
-		"Effects": [ 5.0, -2.0 ]
+		"Effects": [ 6.0, -4.0 ]
 	},
 
 	{
@@ -131,7 +131,7 @@
 		"Turn": 8,
 		"Title": "Fire Troublesome Manager",
 		"Cost": 2.0,
-		"Reputation": 0,
+		"Reputation": 4,
 		"Description": "Spend $2M to replace a critical executive manager who has been internally badmouthing Botnet and occasionally breaking company protocol. This will decrease the chance of Botnet having a scandal.",
 		"NewsArt": -1,
 		"Email": -1,
@@ -144,8 +144,8 @@
 		"ID": 10,
 		"Turn": 5,
 		"Title": "Research Mech 'C.L.U.T.S.'",
-		"Cost": 5.0,
-		"Reputation": 0,
+		"Cost": 4.0,
+		"Reputation": 5,
 		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the mech 'C.L.U.T.S.",
 		"NewsArt": -1,
 		"Email": 3,
@@ -158,8 +158,8 @@
 		"ID": 11,
 		"Turn": 7,
 		"Title": "Research Mech 'A.C.E.'",
-		"Cost": 10.0,
-		"Reputation": 0,
+		"Cost": 7.0,
+		"Reputation": 6,
 		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the mech 'A.C.E.'",
 		"NewsArt": -1,
 		"Email": 8,
@@ -174,19 +174,19 @@
 		"Title": "Mech Return",
 		"Cost": 3.0,
 		"Reputation": 6,
-		"Description": "Some people are not happy with their mechs and want to return them. Pay 3M for shipping but gain 3 L.I.M.B. mechs.",
+		"Description": "Some people are not happy with their mechs and want to return them. Pay 3M for shipping but gain 3 L.I.M.B. mechs. Lose 1 reputation.",
 		"NewsArt": -1,
 		"Email": -1,
-		"Elms": 2,
-		"Stats": [ "DevMech", "" ],
-		"Effects": [ 0.0, 3.0 ]
+		"Elms": 3,
+		"Stats": [ "DevMech", "", "Rep" ],
+		"Effects": [ 0.0, 3.0, -1.0 ]
 	},
 
 	{
 		"ID": 13,
 		"Turn": 12,
 		"Title": "Workers Health Care",
-		"Cost": 7.0,
+		"Cost": 7.5,
 		"Reputation": 0,
 		"Description": "Workers are requesting better health care options. This will cost the company $7M but will make your employees much happier.",
 		"NewsArt": -1,
@@ -205,9 +205,9 @@
 		"Description": "Give an internal speech to your employees about how well the company is doing. Discuss promotions, stock options, and increased funding to departments...but maybe stretch the truth a little bit.",
 		"NewsArt": -1,
 		"Email": -1,
-		"Elms": 4,
-		"Stats": [ "Money", "WorkerAnger", "CyberSec", "Scandal" ],
-		"Effects": [ 1.0, -10.0, 10.0, 10.0 ]
+		"Elms": 3,
+		"Stats": [ "Money", "WorkerAnger", "CyberSec" ],
+		"Effects": [ 1.0, -10.0, -10.0 ]
 	}
 
 ]

@@ -20,25 +20,25 @@
 
 	{
 		"ID": 1,
-		"Chance": 50,
+		"Chance": 15,
 		"ChanceStat": "WorkerAnger",
 		"SpriteFail": "WastedTime_Fail",
 		"SpriteSucc": "WastedTime_Success",
 		"TitleFail": "Hard Working Team",
 		"TitleSucc": "Wasted Worker Time",
 		"DescriptionFail": "Due to generally happy workers, there has been little to no wasted work time.",
-		"DescriptionSucc": "Due to poor management and uninspired workers, $2.5M has been lost due to unprofitable time.",
+		"DescriptionSucc": "Due to poor management and uninspired workers, $2M has been lost due to unprofitable time.",
 		"ElmsFail": 0,
 		"StatsFail": [],
 		"EffectsFail": [],
 		"ElmsSucc": 1,
 		"StatsSucc": [ "Money" ],
-		"EffectsSucc": [ -2.5 ]
+		"EffectsSucc": [ -2.0 ]
 	},
 
 	{
 		"ID": 2,
-		"Chance": 30,
+		"Chance": 20,
 		"ChanceStat": "Scandal",
 		"SpriteFail": "Scandal_Fail",
 		"SpriteSucc": "Scandal_Success",
@@ -51,7 +51,7 @@
 		"EffectsFail": [],
 		"ElmsSucc": 2,
 		"StatsSucc": [ "Money", "Rep" ],
-		"EffectsSucc": [ -1.0, 1.0 ]
+		"EffectsSucc": [ -1.0, -1.0 ]
 	},
 
 	{
@@ -110,14 +110,14 @@
 
 	{
 		"ID": 6,
-		"Chance": 40,
+		"Chance": 0,
 		"ChanceStat": "CyberSec",
 		"SpriteFail": "MechHack_Fail",
 		"SpriteSucc": "MechHack_Success",
 		"TitleFail": "Cyber Attack Prevented - Mechs are Safe",
 		"TitleSucc": "Cyber Attack - Compromised Mechs",
-		"DescriptionFail": "A malicious bug from an unknown source slipped through Cybersecurity's defense and affected many of Botnet's mechs. The compromised mechs had to be recalled and replaced. Botnet looses $5M and 1 Reputation.",
-		"DescriptionSucc": "Botnet's Cybersecurity team was able to catch a malicious bug from an unknown source before it could do any damage to Botnet's mechs.",
+		"DescriptionFail": "Botnet's Cybersecurity team was able to catch a malicious bug from an unknown source before it could do any damage to Botnet's mechs.",
+		"DescriptionSucc": "A malicious bug from an unknown source slipped through Cybersecurity's defense and affected many of Botnet's mechs. The compromised mechs had to be recalled and replaced. Botnet looses $5M and 1 Reputation.",
 		"ElmsFail": 0,
 		"StatsFail": [],
 		"EffectsFail": [],
@@ -128,24 +128,6 @@
 
 	{
 		"ID": 7,
-		"Chance": 100,
-		"ChanceStat": "None",
-		"SpriteFail": "Error",
-		"SpriteSucc": "FacilityExplosion_Success",
-		"TitleFail": "Error",
-		"TitleSucc": "Facility Explosion",
-		"DescriptionFail": "Error",
-		"DescriptionSucc": "One of Botnet's mech production facilities had a critical malfunction resulting in a massive explosion. Four lives were lost. This facility is critical to Botnet's overall production, so repairs had to be made immediately, resulting in a loss of $4M.",
-		"ElmsFail": 0,
-		"StatsFail": [],
-		"EffectsFail": [],
-		"ElmsSucc": 1,
-		"StatsSucc": [ "Money" ],
-		"EffectsSucc": [ -4.0 ]
-	},
-
-	{
-		"ID": 8,
 		"Chance": 10,
 		"ChanceStat": "Rep",
 		"SpriteFail": "PresidentVisits_Fail",
@@ -153,17 +135,17 @@
 		"TitleFail": "President Nabdir Visits Botnet",
 		"TitleSucc": "President Nabdir Rejects Visit",
 		"DescriptionFail": "President Nabdir, a world renowned peaceful leader, has accepted an invitation to Botnet's headquarters. A press release is held and he endorses Botnet for all the good it is doing in the world. Botnet gains 2 reputation.",
-		"DescriptionSucc": "President Nabdir, a world renowned peaceful leader, has rejected an invitation to Botnet's headquarters. He sent a response saying that he would not endorse a company that has caused so much harm to the world.",
+		"DescriptionSucc": "President Nabdir, a world renowned peaceful leader, has rejected an invitation to Botnet's headquarters. He sent a response saying that he would not endorse a company that has caused so much harm to the world. Botnet loses 1 reputation.",
 		"ElmsFail": 1,
 		"StatsFail": [ "Rep" ],
 		"EffectsFail": [ 2.0 ],
-		"ElmsSucc": 0,
-		"StatsSucc": [],
-		"EffectsSucc": []
+		"ElmsSucc": 1,
+		"StatsSucc": [ "Rep" ],
+		"EffectsSucc": [ -1.0 ]
 	},
 
 	{
-		"ID": 9,
+		"ID": 8,
 		"Chance": 100,
 		"ChanceStat": "None",
 		"SpriteFail": "Error",
