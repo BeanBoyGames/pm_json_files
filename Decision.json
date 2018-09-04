@@ -222,6 +222,20 @@
 		"Elms": 2,
 		"Stats": [ "CyberSec", "Money" ],
 		"Effects": [ 15.0, 4.0 ]
+	},
+
+	{
+		"ID": 16,
+		"Turn": 3,
+		"Title": "Rush Out New Security System",
+		"Cost": 0.0,
+		"Reputation": 0,
+		"Description": "Cybersecurity has been hard pressed to deploy a new security system before the annual Altanaduran Tech Conference, but they don't think it'll be ready in time. Tell them to deploy it anyways so Botnet can present it at the conference and gain 2 reputation, but Botnet will be a little more vulnerable to cyber attacks in the future.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 2,
+		"Stats": [ "Rep", "CyberSec" ],
+		"Effects": [ 2.0, 15.0 ]
 	}
 
 ]
