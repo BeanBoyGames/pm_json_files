@@ -16,7 +16,7 @@
 
 	{
 		"ID": 1,
-		"Turn": 0,
+		"Turn": 1,
 		"Title": "Collect Data from Users",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -30,7 +30,7 @@
 
 	{
 		"ID": 2,
-		"Turn": 1,
+		"Turn": 2,
 		"Title": "Increase Funding to Cybersecurity",
 		"Cost": 2.5,
 		"Reputation": 0,
@@ -58,7 +58,7 @@
 
 	{
 		"ID": 4,
-		"Turn": 4,
+		"Turn": 3,
 		"Title": "Give Workers Free Food",
 		"Cost": 2.0,
 		"Reputation": 0,
@@ -72,7 +72,7 @@
 
 	{
 		"ID": 5,
-		"Turn": 6,
+		"Turn": 4,
 		"Title": "Cut Costs on Restrooms",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -86,7 +86,7 @@
 
 	{
 		"ID": 6,
-		"Turn": 3,
+		"Turn": 5,
 		"Title": "Recruit a Cyber Security Specialist",
 		"Cost": 3.0,
 		"Reputation": 4,
@@ -114,7 +114,7 @@
 
 	{
 		"ID": 8,
-		"Turn": 6,
+		"Turn": 7,
 		"Title": "Sell Mechs for Parade",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -184,7 +184,7 @@
 
 	{
 		"ID": 13,
-		"Turn": 12,
+		"Turn": 10,
 		"Title": "Workers Health Care",
 		"Cost": 7.5,
 		"Reputation": 0,
@@ -212,7 +212,7 @@
 
 	{
 		"ID": 15,
-		"Turn": 5,
+		"Turn": 3,
 		"Title": "Change Security Software",
 		"Cost": 0,
 		"Reputation": 0,
