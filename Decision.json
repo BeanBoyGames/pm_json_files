@@ -25,7 +25,7 @@
 		"Email": 2,
 		"Elms": 2,
 		"Stats": [ "Money", "Scandal" ],
-		"Effects": [ 4.0, 25.0 ]
+		"Effects": [ 4.0, 20.0 ]
 	},
 
 	{
@@ -39,7 +39,7 @@
 		"Email": 4,
 		"Elms": 1,
 		"Stats": [ "CyberSec" ],
-		"Effects": [ -45.0 ]
+		"Effects": [ -15.0 ]
 	},
 
 	{
@@ -60,9 +60,9 @@
 		"ID": 4,
 		"Turn": 3,
 		"Title": "Give Workers Free Food",
-		"Cost": 2.0,
+		"Cost": 4.0,
 		"Reputation": 0,
-		"Description": "Spend $2M to add free-food facilities to all of Botnet's mech production facilities to improve worker's morale.",
+		"Description": "Spend $4M to add free-food facilities to all of Botnet's mech production facilities to improve worker's morale.",
 		"NewsArt": -1,
 		"Email": 6,
 		"Elms": 1,
@@ -76,12 +76,12 @@
 		"Title": "Cut Costs on Restrooms",
 		"Cost": 0.0,
 		"Reputation": 0,
-		"Description": "Gain $5M by removing feminine hygiene products from restrooms, replacing toilet paper with single ply toilet paper, and removing family restrooms.",
+		"Description": "Gain $8M by removing feminine hygiene products from restrooms, replacing toilet paper with single ply toilet paper, and removing family restrooms.",
 		"NewsArt": -1,
 		"Email": 7,
 		"Elms": 2,
 		"Stats": [ "Money", "WorkerAnger" ],
-		"Effects": [ 5.0, 35.0 ]
+		"Effects": [ 8.0, 35.0 ]
 	},
 
 	{
@@ -95,7 +95,7 @@
 		"Email": -1,
 		"Elms": 2,
 		"Stats": [ "CyberSec", "Scandal" ],
-		"Effects": [ -30.0, 10.0 ]
+		"Effects": [ -25.0, 15.0 ]
 	},
 
 	{
@@ -104,7 +104,7 @@
 		"Title": "Recruit a Public Relations Specialist",
 		"Cost": 2.5,
 		"Reputation": 3,
-		"Description": "Spend $2M to hire a skilled Public Relations Manager for Botnet. This will increase Botnet's reputation by 2.",
+		"Description": "Spend $2.5M to hire a skilled Public Relations Manager for Botnet. This will increase Botnet's reputation by 2.",
 		"NewsArt": -1,
 		"Email": -1,
 		"Elms": 1,
@@ -130,14 +130,14 @@
 		"ID": 9,
 		"Turn": 8,
 		"Title": "Fire Troublesome Manager",
-		"Cost": 2.0,
+		"Cost": 3.0,
 		"Reputation": 4,
-		"Description": "Spend $2M to replace a critical executive manager who has been internally badmouthing Botnet and occasionally breaking company protocol. This will decrease the chance of Botnet having a scandal.",
+		"Description": "Spend $3M to replace a critical executive manager who has been internally badmouthing Botnet and occasionally breaking company protocol. This will decrease the chance of Botnet having a scandal.",
 		"NewsArt": -1,
 		"Email": -1,
 		"Elms": 1,
 		"Stats": [ "Scandal" ],
-		"Effects": [ -20.0 ]
+		"Effects": [ -15.0 ]
 	},
 
 	{
@@ -193,7 +193,7 @@
 		"Email": -1,
 		"Elms": 1,
 		"Stats": [ "WorkerAnger" ],
-		"Effects": [ -75.0 ]
+		"Effects": [ -50.0 ]
 	},
 
 	{
@@ -202,7 +202,7 @@
 		"Title": "Give a speech",
 		"Cost": 0.0,
 		"Reputation": 8,
-		"Description": "Give an internal speech to your employees about how well the company is doing. Discuss promotions, stock options, and increased funding to departments...but maybe stretch the truth a little bit.",
+		"Description": "Give an internal speech to your employees about how well the company is doing. Discuss promotions, stock options, and increased funding to departments. Botnet will gain $1M, your employees will be slightly happier, and your cybersecurity will slightly improve.",
 		"NewsArt": -1,
 		"Email": -1,
 		"Elms": 3,
