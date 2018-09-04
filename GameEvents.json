@@ -74,7 +74,7 @@
 
 	{
 		"ID": 4,
-		"Chance": 45,
+		"Chance": 40,
 		"ChanceStat": "CyberSec",
 		"SpriteFail": "SecurityBreach_Fail",
 		"SpriteSucc": "SecurityBreach_Success",
@@ -110,7 +110,7 @@
 
 	{
 		"ID": 6,
-		"Chance": 40,
+		"Chance": 20,
 		"ChanceStat": "CyberSec",
 		"SpriteFail": "MechHack_Fail",
 		"SpriteSucc": "MechHack_Success",

@@ -76,12 +76,12 @@
 		"Title": "Cut Costs on Restrooms",
 		"Cost": 0.0,
 		"Reputation": 0,
-		"Description": "Gain $8M by removing feminine hygiene products from restrooms, replacing toilet paper with single ply toilet paper, and removing family restrooms.",
+		"Description": "Gain $5M by removing feminine hygiene products from restrooms, replacing toilet paper with single ply toilet paper, and removing family restrooms. This will anger many of your employees.",
 		"NewsArt": -1,
 		"Email": 7,
 		"Elms": 2,
 		"Stats": [ "Money", "WorkerAnger" ],
-		"Effects": [ 8.0, 35.0 ]
+		"Effects": [ 5.0, 35.0 ]
 	},
 
 	{
