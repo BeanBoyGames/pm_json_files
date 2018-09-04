@@ -214,7 +214,7 @@
 		"ID": 15,
 		"Turn": 3,
 		"Title": "Change Security Software",
-		"Cost": 0,
+		"Cost": 0.0,
 		"Reputation": 0,
 		"Description": "Gain $4M by switching to a more budget-friendly software for storing secrets. This will slightly increase the chance of a cyber attack in the future.",
 		"NewsArt": -1,
