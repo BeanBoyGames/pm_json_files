@@ -5,7 +5,7 @@
 		"Turn": 0,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Welcome Back",
-		"Body": "Welcome back to the company, I hope your vacation was nice. We have updated our operating system, so we have a few things to go over.\n\nThere are a few new systems we have ready, but we'll be rolling them out as time goes on. As of now, we need you to make some decisions for Botnet. Over the next couple of quarters we will start implementing our new systems for you to use.\n\nGreat to have you back!",
+		"Body": "Welcome back to the company, I hope your vacation was nice. We have updated our operating system, so we have a few things to go over.\n\nThere are a few new systems we have ready, but we'll be rolling them out as time goes on. As of now, we need you to make some decisions for Botnet. You won't be able to develop or sell any mechs right now, as we're still working that system out. Over the next couple of quarters we will start implementing our new systems for you to use.\n\nGreat to have you back!",
 		"Imp": true
 	},
 
@@ -50,7 +50,7 @@
 		"Turn": 4,
 		"From": "Jeff Bez",
 		"SubjectLine": "Keep up the good work!",
-		"Body": "I wanted to personally thank you [EMAIL_RECEPIENT]! You have been doing a great job. Keep up the good work and a promotion might be on the way.",
+		"Body": "Just wanted to let you know that you're doing a great job! I'm going be frank, the other board members had their doubts about you at first, but I always knew you'd excel...and you sure have! Just remember that I've always supported you since day 1. Keep up the success!",
 		"Imp": false
 	},
 
@@ -67,7 +67,7 @@
 	{
 		"ID": 7,
 		"Turn": 10,
-		"From": "Andy Bowers",
+		"From": "Andrew Bowers",
 		"SubjectLine": "Emails getting through",
 		"Body": "You might have gotten an email from a civilian recently. We are still working out the kinks of this new system. From here on out, you shouldn't be getting anymore of these types of emails. Sorry for the inconvenience.",
 		"Imp": false

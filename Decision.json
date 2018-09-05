@@ -72,7 +72,7 @@
 
 	{
 		"ID": 5,
-		"Turn": 4,
+		"Turn": 8,
 		"Title": "Cut Costs on Restrooms",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -103,7 +103,7 @@
 		"Turn": 6,
 		"Title": "Recruit a Public Relations Specialist",
 		"Cost": 2.5,
-		"Reputation": 3,
+		"Reputation": 0,
 		"Description": "Spend $2.5M to hire a skilled Public Relations Manager for Botnet. This will increase Botnet's reputation by 2.",
 		"NewsArt": -1,
 		"Email": -1,
@@ -128,7 +128,7 @@
 
 	{
 		"ID": 9,
-		"Turn": 8,
+		"Turn": 4,
 		"Title": "Fire Troublesome Manager",
 		"Cost": 3.0,
 		"Reputation": 4,
@@ -144,9 +144,9 @@
 		"ID": 10,
 		"Turn": 5,
 		"Title": "Research Mech 'C.L.U.T.S.'",
-		"Cost": 4.0,
+		"Cost": 3.5,
 		"Reputation": 5,
-		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the mech 'C.L.U.T.S.",
+		"Description": "Spend $3.5M putting resources into research for a new mech. After this quarter you will be able to develop the mech 'C.L.U.T.S.,' a heavily reinforced mech used for destroying large structures.",
 		"NewsArt": -1,
 		"Email": 3,
 		"Elms": 1,
@@ -158,9 +158,9 @@
 		"ID": 11,
 		"Turn": 7,
 		"Title": "Research Mech 'A.C.E.'",
-		"Cost": 7.0,
+		"Cost": 5.5,
 		"Reputation": 6,
-		"Description": "Put resources into research for a new mech. After this quarter you will be able to develop the mech 'A.C.E.'",
+		"Description": "Spend $5.5M putting resources into research for a new mech. After this quarter you will be able to develop the mech 'A.C.E.,' an agile humanoid mech that acts as a large extension of the human body.",
 		"NewsArt": -1,
 		"Email": 8,
 		"Elms": 1,
@@ -212,7 +212,7 @@
 
 	{
 		"ID": 15,
-		"Turn": 3,
+		"Turn": 0,
 		"Title": "Change Security Software",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -226,7 +226,7 @@
 
 	{
 		"ID": 16,
-		"Turn": 3,
+		"Turn": 8,
 		"Title": "Rush Out New Security System",
 		"Cost": 0.0,
 		"Reputation": 0,

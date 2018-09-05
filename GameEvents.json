@@ -81,13 +81,13 @@
 		"TitleFail": "Cyber Attack Prevented - Information is Safe",
 		"TitleSucc": "Cyber Attack - Stolen Information",
 		"DescriptionFail": "Due to the hard workers in the Cybersecurity division, a hacking attempt has been found and thwarted. Botnet publishes an article on how to prevent this type of attack and gains 1 reputation.",
-		"DescriptionSucc": "Due to the underpaid and understaffed Cybersecurity division, a hostile body has taken an unknown amount of information. Botnet looses 3 reputation.",
+		"DescriptionSucc": "Due to the underpaid and understaffed Cybersecurity division, a hostile body has taken an unknown amount of information. Botnet looses 2 reputation.",
 		"ElmsFail": 1,
 		"StatsFail": [ "Rep" ],
 		"EffectsFail": [ 1.0 ],
 		"ElmsSucc": 1,
 		"StatsSucc": [ "Rep" ],
-		"EffectsSucc": [ -3.0 ]
+		"EffectsSucc": [ -2.0 ]
 	},
 
 	{
