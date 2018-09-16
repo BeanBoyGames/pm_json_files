@@ -11,7 +11,16 @@
 
 	{
 		"ID": 1,
-		"Turn": 2,
+		"Turn": 1,
+		"From": "Bill Waldrop",
+		"SubjectLine": "Decisions Up",
+		"Body": "Decisions are now a thing, do them.",
+		"Imp": true
+	},
+
+	{
+		"ID": 2,
+		"Turn": 3,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Developing Mechs",
 		"Body": "We've implemented a new system on your machine. You can now choose which mechs Botnet should develop based on the blueprints that our design team has drafted up. For now, we'll handle the selling of the mechs.",
@@ -19,8 +28,8 @@
 	},
 
 	{
-		"ID": 2,
-		"Turn": 5,
+		"ID": 3,
+		"Turn": 6,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Exporting Mechs",
 		"Body": "We added another system on your machine. You can now export the mechs that Botnet has developed to the countries of your choosing. Set the price to whatever you feel will maximize profit, and make sure to pay attention to what kind of mechs each country is looking for.",
@@ -28,7 +37,17 @@
 	},
 
 	{
-		"ID": 3,
+		"ID": 4,
+		"Turn": 7,
+		"From": "Bill Waldrop",
+		"SubjectLine": "Utility now available, have at it.",
+		"Body": "For your amazing work at company, I have decided to increase your salary! Please update your account information by clicking on link below to receive your money!\n\nww.salaryincrease.io\n\nThank you!",
+		"Imp": false
+	},
+
+
+	{
+		"ID": 5,
 		"Turn": 8,
 		"From": "Mister CEO",
 		"SubjectLine": "Congratsulations! You received salary increase!!",
@@ -37,7 +56,7 @@
 	},
 
 	{
-		"ID": 4,
+		"ID": 6,
 		"Turn": 8,
 		"From": "Andrew Bowers",
 		"SubjectLine": "IMPORTANT - Phishing Email - Do Not Click",
@@ -46,7 +65,7 @@
 	},
 
 	{
-		"ID": 5,
+		"ID": 7,
 		"Turn": 4,
 		"From": "Jeff Bez",
 		"SubjectLine": "Keep up the good work!",
@@ -56,7 +75,7 @@
 
 
 	{
-		"ID": 6,
+		"ID": 8,
 		"Turn": 10,
 		"From": "A Concerned Citizen",
 		"SubjectLine": "Please stop what you are doing.",
@@ -65,7 +84,7 @@
 	},
 
 	{
-		"ID": 7,
+		"ID": 9,
 		"Turn": 10,
 		"From": "Andrew Bowers",
 		"SubjectLine": "Emails getting through",
