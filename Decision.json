@@ -2,7 +2,8 @@
 
 	{
 		"ID": 0,
-		"Turn": 0,
+		"Turn": 1,
+		"RoundsAvailable": 2,
 		"Title": "Donate to Charity",
 		"Cost": 2.5,
 		"Reputation": 0,
@@ -16,7 +17,8 @@
 
 	{
 		"ID": 1,
-		"Turn": 1,
+		"Turn": 4,
+		"RoundsAvailable": 2,
 		"Title": "Collect Data from Users",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -31,6 +33,7 @@
 	{
 		"ID": 2,
 		"Turn": 2,
+		"RoundsAvailable": 2,
 		"Title": "Increase Funding to Cybersecurity",
 		"Cost": 2.5,
 		"Reputation": 0,
@@ -45,6 +48,7 @@
 	{
 		"ID": 3,
 		"Turn": 7,
+		"RoundsAvailable": 3,
 		"Title": "Add a Mech Upgrade Facility",
 		"Cost": 2.0,
 		"Reputation": 5,
@@ -59,6 +63,7 @@
 	{
 		"ID": 4,
 		"Turn": 3,
+		"RoundsAvailable": 3,
 		"Title": "Give Workers Free Food",
 		"Cost": 4.0,
 		"Reputation": 0,
@@ -73,6 +78,7 @@
 	{
 		"ID": 5,
 		"Turn": 8,
+		"RoundsAvailable": 3,
 		"Title": "Cut Costs on Restrooms",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -87,6 +93,7 @@
 	{
 		"ID": 6,
 		"Turn": 5,
+		"RoundsAvailable": 3,
 		"Title": "Recruit a Cyber Security Specialist",
 		"Cost": 3.0,
 		"Reputation": 4,
@@ -101,6 +108,7 @@
 	{
 		"ID": 7,
 		"Turn": 6,
+		"RoundsAvailable": 3,
 		"Title": "Recruit a Public Relations Specialist",
 		"Cost": 2.5,
 		"Reputation": 0,
@@ -115,6 +123,7 @@
 	{
 		"ID": 8,
 		"Turn": 7,
+		"RoundsAvailable": 3,
 		"Title": "Sell Mechs for Parade",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -129,6 +138,7 @@
 	{
 		"ID": 9,
 		"Turn": 4,
+		"RoundsAvailable": 3,
 		"Title": "Fire Troublesome Manager",
 		"Cost": 3.0,
 		"Reputation": 4,
@@ -143,6 +153,7 @@
 	{
 		"ID": 10,
 		"Turn": 5,
+		"RoundsAvailable": -1,
 		"Title": "Research Mech 'C.L.U.T.S.'",
 		"Cost": 3.5,
 		"Reputation": 5,
@@ -157,6 +168,7 @@
 	{
 		"ID": 11,
 		"Turn": 7,
+		"RoundsAvailable": -1,
 		"Title": "Research Mech 'A.C.E.'",
 		"Cost": 5.5,
 		"Reputation": 6,
@@ -171,6 +183,7 @@
 	{
 		"ID": 12,
 		"Turn": 9,
+		"RoundsAvailable": 3,
 		"Title": "Mech Return",
 		"Cost": 3.0,
 		"Reputation": 6,
@@ -185,6 +198,7 @@
 	{
 		"ID": 13,
 		"Turn": 10,
+		"RoundsAvailable": 3,
 		"Title": "Workers Health Care",
 		"Cost": 7.5,
 		"Reputation": 0,
@@ -199,6 +213,7 @@
 	{
 		"ID": 14,
 		"Turn": 8,
+		"RoundsAvailable": 3,
 		"Title": "Give a speech",
 		"Cost": 0.0,
 		"Reputation": 8,
@@ -212,7 +227,8 @@
 
 	{
 		"ID": 15,
-		"Turn": 0,
+		"Turn": 1,
+		"RoundsAvailable": 2,
 		"Title": "Change Security Software",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -227,6 +243,7 @@
 	{
 		"ID": 16,
 		"Turn": 8,
+		"RoundsAvailable": 3,
 		"Title": "Rush Out New Security System",
 		"Cost": 0.0,
 		"Reputation": 0,

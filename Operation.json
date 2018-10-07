@@ -1,0 +1,93 @@
+﻿[
+
+	{
+		"ID": 0,
+		"Country": 0,
+		"OpNum": 0,
+		"LockedText": "Develop 5 mechs.",
+		"AchivStat": "NumOfMechsDeved",
+		"AchivQuant": 5.0,
+		"Title": "Extra Development Facility",
+		"Description": "Decrease the base development price of all mechs by 10%.",
+		"Sprite": "BuisinesAsUsual_Success",
+		"WeeklyExpense": 0.5,
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "MechDevPrice" ],
+		"Effects": [ 0.9 ]
+	},
+
+	{
+		"ID": 1,
+		"Country": 1,
+		"OpNum": 0,
+		"LockedText": "Have 30M in total",
+		"AchivStat": "HighestMoney",
+		"AchivQuant": 30.0,
+		"Title": "Export Facility",
+		"Description": "Increase the base sale price of all mechs by 10%.",
+		"Sprite": "BuisinesAsUsual_Success",
+		"WeeklyExpense": 1.0,
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "MechBasePrice" ],
+		"Effects": [ 1.1 ]
+	},
+
+	{
+		"ID": 2,
+		"Country": 2,
+		"OpNum": 0,
+		"LockedText": "Make 1 'Risky Offer' when exporting mechs.",
+		"AchivStat": "RiskyOffers",
+		"AchivQuant": 1.0,
+		"Title": "PR Office",
+		"Description": "Lets you export to countries even if you have a low relationship. (1 relationship still blocked)",
+		"Sprite": "BuisinesAsUsual_Success",
+		"WeeklyExpense": 0.5,
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "ExportRel" ],
+		"Effects": [ 1.0 ]
+	},
+
+	{
+		"ID": 3,
+		"Country": 3,
+		"OpNum": 0,
+		"LockedText": "Approve 1 decision.",
+		"AchivStat": "DecisionsApproved",
+		"AchivQuant": 1.0,
+		"Title": "Paperwork Building",
+		"Description": "Make all decisions cost 10% less.",
+		"Sprite": "BuisinesAsUsual_Success",
+		"WeeklyExpense": 0.5,
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "DecisionCost" ],
+		"Effects": [ 0.9 ]
+	},
+
+	{
+		"ID": 4,
+		"Country": 4,
+		"OpNum": 0,
+		"LockedText": "Earn a total of 5M.",
+		"AchivStat": "MoneyEarned",
+		"AchivQuant": 5.0,
+		"Title": "Mech Upgrade Facility",
+		"Description": "Make a building that will enable Botnet to develop upgrades for all mechs.",
+		"Sprite": "BuisinesAsUsual_Success",
+		"WeeklyExpense": 0.5,
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 1,
+		"Stats": [ "Upgrade" ],
+		"Effects": [ 1.0 ]
+	}
+
+]
