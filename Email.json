@@ -2,6 +2,7 @@
 
 	{
 		"ID": 0,
+		"Stage": 0,
 		"Turn": 0,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Welcome Back",
@@ -11,6 +12,7 @@
 
 	{
 		"ID": 1,
+		"Stage": 0,
 		"Turn": 1,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Decisions Up",
@@ -20,6 +22,7 @@
 
 	{
 		"ID": 2,
+		"Stage": 0,
 		"Turn": 3,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Developing Mechs",
@@ -29,6 +32,7 @@
 
 	{
 		"ID": 3,
+		"Stage": 0,
 		"Turn": 5,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Weekly Expense",
@@ -38,6 +42,7 @@
 
 	{
 		"ID": 4,
+		"Stage": 0,
 		"Turn": 7,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Exporting Mechs",
@@ -47,6 +52,7 @@
 
 	{
 		"ID": 5,
+		"Stage": 0,
 		"Turn": 8,
 		"From": "Bill Waldrop",
 		"SubjectLine": "Utility now available, have at it.",
@@ -57,6 +63,7 @@
 
 	{
 		"ID": 6,
+		"Stage": 0,
 		"Turn": 8,
 		"From": "Mister CEO",
 		"SubjectLine": "Congratsulations! You received salary increase!!",
@@ -66,6 +73,7 @@
 
 	{
 		"ID": 7,
+		"Stage": 0,
 		"Turn": 8,
 		"From": "Andrew Bowers",
 		"SubjectLine": "IMPORTANT - Phishing Email - Do Not Click",
@@ -75,6 +83,7 @@
 
 	{
 		"ID": 8,
+		"Stage": 0,
 		"Turn": 4,
 		"From": "Jeff Bez",
 		"SubjectLine": "Keep up the good work!",
@@ -85,6 +94,7 @@
 
 	{
 		"ID": 9,
+		"Stage": 0,
 		"Turn": 10,
 		"From": "A Concerned Citizen",
 		"SubjectLine": "Please stop what you are doing.",
@@ -94,6 +104,7 @@
 
 	{
 		"ID": 10,
+		"Stage": 0,
 		"Turn": 10,
 		"From": "Andrew Bowers",
 		"SubjectLine": "Emails getting through",

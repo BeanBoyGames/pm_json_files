@@ -2,6 +2,7 @@
 
 	{
 		"ID": 0,
+		"Stage": 0,
 		"Turn": 0,
 		"Title": "Conflicts Between Willemette and Beathen Heat Up",
 		"ShortDescription": "'We will not back down,' says Shung Way, President of Willemette.",
@@ -12,6 +13,7 @@
 
 	{
 		"ID": 1,
+		"Stage": 0,
 		"Turn": 1,
 		"Title": "Rei-Mont Defends Beathen on use of Missles",
 		"ShortDescription": "Last night, Beathen targeted and destroyed a Willemette weapons facility. The Prime Minister of Rei-Mont was quick to speak in their defense.",
@@ -22,6 +24,7 @@
 
 	{
 		"ID": 2,
+		"Stage": 0,
 		"Turn": 2,
 		"Title": "U.L. Condemns Beathen",
 		"ShortDescription": "The President of U.L. spoke out against the recent attack from BeathenP on Willemette.",
@@ -32,6 +35,7 @@
 
 	{
 		"ID": 3,
+		"Stage": 0,
 		"Turn": 3,
 		"Title": "Botnet Continues to Dominate the Mech Industry",
 		"ShortDescription": "It seems like there's no end to Botnet's success.",
@@ -42,6 +46,7 @@
 
 	{
 		"ID": 4,
+		"Stage": 0,
 		"Turn": 3,
 		"Title": "Unburu's Economy Continues Massive Growth",
 		"ShortDescription": "Head Treasurer Jako Bidunbu credits growth to Unburu's newly invigorated logging industry.",
@@ -52,6 +57,7 @@
 
 	{
 		"ID": 5,
+		"Stage": 0,
 		"Turn": 6,
 		"Title": "Ho Kai Tourism Up",
 		"ShortDescription": "The new hot vacation spot this summer is Ho Kai. With its beautiful beaches and delicious food - how could it not be?",
@@ -62,6 +68,7 @@
 
 	{
 		"ID": 6,
+		"Stage": 0,
 		"Turn": 6,
 		"Title": "Illegal Logging Operations Continue in Unburu",
 		"ShortDescription": "Despite efforts by the Unburu government, illegal logging continues to be a problem.",
@@ -72,10 +79,22 @@
 
 	{
 		"ID": 7,
+		"Stage": 0,
 		"Turn": 5,
 		"Title": "U.L. Holding Annual Speaker Forum",
 		"ShortDescription": "U.L. is holding their 7th annual speaker forum this Saturday. This is a time for any member of the nation to come and talk about issues that matter to them.",
 		"Description": "Out of the many topics to be discussed during this three day forum, the hottest topics will likely be\n-Government role in defense\n-Island integration into main lands\n-Personal mech restrictions\n-Possible trade deal with Ho Kai",
+		"SpritePath": "NewsSprites/Just",
+		"Imp": false
+	},
+
+	{
+		"ID": 7,
+		"Stage": 1,
+		"Turn": 2,
+		"Title": "TEST",
+		"ShortDescription": "TEST",
+		"Description": "TEST",
 		"SpritePath": "NewsSprites/Just",
 		"Imp": false
 	}

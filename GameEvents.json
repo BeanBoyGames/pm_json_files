@@ -2,6 +2,7 @@
 
 	{
 		"ID": 0,
+		"Stage": 0,
 		"Chance": 100,
 		"ChanceStat": "None",
 		"SpriteFail": "Error",
@@ -20,6 +21,7 @@
 
 	{
 		"ID": 1,
+		"Stage": 0,
 		"Chance": 15,
 		"ChanceStat": "WorkerAnger",
 		"SpriteFail": "WastedTime_Fail",
@@ -38,6 +40,7 @@
 
 	{
 		"ID": 2,
+		"Stage": 0,
 		"Chance": 20,
 		"ChanceStat": "Scandal",
 		"SpriteFail": "Scandal_Fail",
@@ -56,6 +59,7 @@
 
 	{
 		"ID": 3,
+		"Stage": 0,
 		"Chance": 100,
 		"ChanceStat": "None",
 		"SpriteFail": "Error",
@@ -74,6 +78,7 @@
 
 	{
 		"ID": 4,
+		"Stage": 0,
 		"Chance": 40,
 		"ChanceStat": "CyberSec",
 		"SpriteFail": "SecurityBreach_Fail",
@@ -92,6 +97,7 @@
 
 	{
 		"ID": 5,
+		"Stage": 0,
 		"Chance": 10,
 		"ChanceStat": "WorkerAnger",
 		"SpriteFail": "AnonymousArticle_Fail",
@@ -110,6 +116,7 @@
 
 	{
 		"ID": 6,
+		"Stage": 0,
 		"Chance": 20,
 		"ChanceStat": "CyberSec",
 		"SpriteFail": "MechHack_Fail",
@@ -128,6 +135,7 @@
 
 	{
 		"ID": 7,
+		"Stage": 0,
 		"Chance": 10,
 		"ChanceStat": "Scandal",
 		"SpriteFail": "PresidentVisits_Fail",
@@ -146,6 +154,7 @@
 
 	{
 		"ID": 8,
+		"Stage": 0,
 		"Chance": 100,
 		"ChanceStat": "None",
 		"SpriteFail": "Error",
@@ -154,6 +163,25 @@
 		"TitleSucc": "Business As Normal",
 		"DescriptionFail": "Error",
 		"DescriptionSucc": "Besides the other events this quarter, it has been a fairly quiet quarter. Sometimes no news is good news.",
+		"ElmsFail": 0,
+		"StatsFail": [],
+		"EffectsFail": [],
+		"ElmsSucc": 0,
+		"StatsSucc": [],
+		"EffectsSucc": []
+	},
+
+	{
+		"ID": 9,
+		"Stage": 1,
+		"Chance": 100,
+		"ChanceStat": "None",
+		"SpriteFail": "Error",
+		"SpriteSucc": "BuisinesAsUsual_Success",
+		"TitleFail": "Error",
+		"TitleSucc": "TEST",
+		"DescriptionFail": "Error",
+		"DescriptionSucc": "TEST",
 		"ElmsFail": 0,
 		"StatsFail": [],
 		"EffectsFail": [],

@@ -2,8 +2,9 @@
 
 	{
 		"ID": 0,
+		"Stage": 0,
 		"Turn": 1,
-		"RoundsAvailable": 2,
+		"RoundsAvailable": 3,
 		"Title": "Donate to Charity",
 		"Cost": 2.5,
 		"Reputation": 0,
@@ -17,6 +18,7 @@
 
 	{
 		"ID": 1,
+		"Stage": 0,
 		"Turn": 4,
 		"RoundsAvailable": 2,
 		"Title": "Collect Data from Users",
@@ -32,6 +34,7 @@
 
 	{
 		"ID": 2,
+		"Stage": 0,
 		"Turn": 2,
 		"RoundsAvailable": 2,
 		"Title": "Increase Funding to Cybersecurity",
@@ -47,6 +50,7 @@
 
 	{
 		"ID": 3,
+		"Stage": 0,
 		"Turn": 7,
 		"RoundsAvailable": 3,
 		"Title": "Add a Mech Upgrade Facility",
@@ -62,6 +66,7 @@
 
 	{
 		"ID": 4,
+		"Stage": 0,
 		"Turn": 3,
 		"RoundsAvailable": 3,
 		"Title": "Give Workers Free Food",
@@ -77,6 +82,7 @@
 
 	{
 		"ID": 5,
+		"Stage": 0,
 		"Turn": 8,
 		"RoundsAvailable": 3,
 		"Title": "Cut Costs on Restrooms",
@@ -92,6 +98,7 @@
 
 	{
 		"ID": 6,
+		"Stage": 0,
 		"Turn": 5,
 		"RoundsAvailable": 3,
 		"Title": "Recruit a Cyber Security Specialist",
@@ -107,6 +114,7 @@
 
 	{
 		"ID": 7,
+		"Stage": 0,
 		"Turn": 6,
 		"RoundsAvailable": 3,
 		"Title": "Recruit a Public Relations Specialist",
@@ -122,6 +130,7 @@
 
 	{
 		"ID": 8,
+		"Stage": 0,
 		"Turn": 7,
 		"RoundsAvailable": 3,
 		"Title": "Sell Mechs for Parade",
@@ -137,6 +146,7 @@
 
 	{
 		"ID": 9,
+		"Stage": 0,
 		"Turn": 4,
 		"RoundsAvailable": 3,
 		"Title": "Fire Troublesome Manager",
@@ -152,6 +162,7 @@
 
 	{
 		"ID": 10,
+		"Stage": 0,
 		"Turn": 5,
 		"RoundsAvailable": -1,
 		"Title": "Research Mech 'C.L.U.T.S.'",
@@ -167,6 +178,7 @@
 
 	{
 		"ID": 11,
+		"Stage": 0,
 		"Turn": 7,
 		"RoundsAvailable": -1,
 		"Title": "Research Mech 'A.C.E.'",
@@ -182,6 +194,7 @@
 
 	{
 		"ID": 12,
+		"Stage": 0,
 		"Turn": 9,
 		"RoundsAvailable": 3,
 		"Title": "Mech Return",
@@ -197,6 +210,7 @@
 
 	{
 		"ID": 13,
+		"Stage": 0,
 		"Turn": 10,
 		"RoundsAvailable": 3,
 		"Title": "Workers Health Care",
@@ -212,6 +226,7 @@
 
 	{
 		"ID": 14,
+		"Stage": 0,
 		"Turn": 8,
 		"RoundsAvailable": 3,
 		"Title": "Give a speech",
@@ -227,8 +242,9 @@
 
 	{
 		"ID": 15,
+		"Stage": 0,
 		"Turn": 1,
-		"RoundsAvailable": 2,
+		"RoundsAvailable": 3,
 		"Title": "Change Security Software",
 		"Cost": 0.0,
 		"Reputation": 0,
@@ -242,12 +258,29 @@
 
 	{
 		"ID": 16,
+		"Stage": 0,
 		"Turn": 8,
 		"RoundsAvailable": 3,
 		"Title": "Rush Out New Security System",
 		"Cost": 0.0,
 		"Reputation": 0,
 		"Description": "Cybersecurity has been hard pressed to deploy a new security system before the annual Altanaduran Tech Conference, but they don't think it'll be ready in time. Tell them to deploy it anyways so Botnet can present it at the conference and gain 2 reputation, but Botnet will be a little more vulnerable to cyber attacks in the future.",
+		"NewsArt": -1,
+		"Email": -1,
+		"Elms": 2,
+		"Stats": [ "Rep", "CyberSec" ],
+		"Effects": [ 2.0, 15.0 ]
+	},
+
+	{
+		"ID": 17,
+		"Stage": 1,
+		"Turn": 1,
+		"RoundsAvailable": 3,
+		"Title": "TEST",
+		"Cost": 0.0,
+		"Reputation": 0,
+		"Description": "TEST",
 		"NewsArt": -1,
 		"Email": -1,
 		"Elms": 2,
