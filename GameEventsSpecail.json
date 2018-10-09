@@ -1,0 +1,22 @@
+﻿[
+
+	{
+		"ID": 0,
+		"Stage": 1,
+		"Chance": 100,
+		"ChanceStat": "None",
+		"SpriteFail": "Error",
+		"SpriteSucc": "Subsity_Success",
+		"TitleFail": "Error",
+		"TitleSucc": "WORLD EVENT TEST",
+		"DescriptionFail": "Error",
+		"DescriptionSucc": "WORLD EVENT TEST",
+		"ElmsFail": 0,
+		"StatsFail": [],
+		"EffectsFail": [],
+		"ElmsSucc": 0,
+		"StatsSucc": [],
+		"EffectsSucc": []
+	}
+
+]
